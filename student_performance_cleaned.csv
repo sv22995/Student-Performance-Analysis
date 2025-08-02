@@ -1,0 +1,1001 @@
+student_ID,gender ,student_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score,mean,median,standard_deviation,maximum,minimum,total_score,status(P/F),overall_performance
+1,female,group B,bachelor's degree,standard,Incomplete,72,72,74,72.7,72.0,1.15,74,72,218,Pass,Good
+2,female,group C,partial college,standard,completed,69,90,88,82.3,88.0,11.59,90,69,247,Pass,Good
+3,female,group B,master's degree,standard,Incomplete,90,95,93,92.7,93.0,2.52,95,90,278,Pass,Excellent
+4,male,group A,associate's degree,reduced,Incomplete,47,57,44,49.3,47.0,6.81,57,44,148,Pass,Average
+5,male,group C,partial college,standard,Incomplete,76,78,75,76.3,76.0,1.53,78,75,229,Pass,Good
+6,female,group B,associate's degree,standard,Incomplete,71,83,78,77.3,78.0,6.03,83,71,232,Pass,Good
+7,female,group B,partial college,standard,completed,88,95,92,91.7,92.0,3.51,95,88,275,Pass,Excellent
+8,male,group B,partial college,reduced,Incomplete,40,43,39,40.7,40.0,2.08,43,39,122,Fail,Poor
+9,male,group D,high school,reduced,completed,64,64,67,65.0,64.0,1.73,67,64,195,Pass,Average
+10,female,group B,high school,reduced,Incomplete,38,60,50,49.3,50.0,11.02,60,38,148,Fail,Average
+11,male,group C,associate's degree,standard,Incomplete,58,54,52,54.7,54.0,3.06,58,52,164,Pass,Average
+12,male,group D,associate's degree,standard,Incomplete,40,52,43,45.0,43.0,6.24,52,40,135,Pass,Average
+13,female,group B,high school,standard,Incomplete,65,81,73,73.0,73.0,8.00,81,65,219,Pass,Good
+14,male,group A,partial college,standard,completed,78,72,70,73.3,72.0,4.16,78,70,220,Pass,Good
+15,female,group A,master's degree,standard,Incomplete,50,53,58,53.7,53.0,4.04,58,50,161,Pass,Average
+16,female,group C,partial high school,standard,Incomplete,69,75,78,74.0,75.0,4.58,78,69,222,Pass,Good
+17,male,group C,high school,standard,Incomplete,88,89,86,87.7,88.0,1.53,89,86,263,Pass,Excellent
+18,female,group B,partial high school,reduced,Incomplete,18,32,28,26.0,28.0,7.21,32,18,78,Fail,Poor
+19,male,group C,master's degree,reduced,completed,46,42,46,44.7,46.0,2.31,46,42,134,Pass,Average
+20,female,group C,associate's degree,reduced,Incomplete,54,58,61,57.7,58.0,3.51,61,54,173,Pass,Average
+21,male,group D,high school,standard,Incomplete,66,69,63,66.0,66.0,3.00,69,63,198,Pass,Average
+22,female,group B,partial college,reduced,completed,65,75,70,70.0,70.0,5.00,75,65,210,Pass,Good
+23,male,group D,partial college,standard,Incomplete,44,54,53,50.3,53.0,5.51,54,44,151,Pass,Average
+24,female,group C,partial high school,standard,Incomplete,69,73,73,71.7,73.0,2.31,73,69,215,Pass,Good
+25,male,group D,bachelor's degree,reduced,completed,74,71,80,75.0,74.0,4.58,80,71,225,Pass,Good
+26,male,group A,master's degree,reduced,Incomplete,73,74,72,73.0,73.0,1.00,74,72,219,Pass,Good
+27,male,group B,partial college,standard,Incomplete,69,54,55,59.3,55.0,8.39,69,54,178,Pass,Average
+28,female,group C,bachelor's degree,standard,Incomplete,67,69,75,70.3,69.0,4.16,75,67,211,Pass,Good
+29,male,group C,high school,standard,Incomplete,70,70,65,68.3,70.0,2.89,70,65,205,Pass,Good
+30,female,group D,master's degree,standard,Incomplete,62,70,75,69.0,70.0,6.56,75,62,207,Pass,Good
+31,female,group D,partial college,standard,Incomplete,69,74,74,72.3,74.0,2.89,74,69,217,Pass,Good
+32,female,group B,partial college,standard,Incomplete,63,65,61,63.0,63.0,2.00,65,61,189,Pass,Average
+33,female,group E,master's degree,reduced,Incomplete,56,72,65,64.3,65.0,8.02,72,56,193,Pass,Average
+34,male,group D,partial college,standard,Incomplete,40,42,38,40.0,40.0,2.00,42,38,120,Fail,Poor
+35,male,group E,partial college,standard,Incomplete,97,87,82,88.7,87.0,7.64,97,82,266,Pass,Excellent
+36,male,group E,associate's degree,standard,completed,81,81,79,80.3,81.0,1.15,81,79,241,Pass,Good
+37,female,group D,associate's degree,standard,Incomplete,74,81,83,79.3,81.0,4.73,83,74,238,Pass,Good
+38,female,group D,partial high school,reduced,Incomplete,50,64,59,57.7,59.0,7.09,64,50,173,Pass,Average
+39,female,group D,associate's degree,reduced,completed,75,90,88,84.3,88.0,8.14,90,75,253,Pass,Excellent
+40,male,group B,associate's degree,reduced,Incomplete,57,56,57,56.7,57.0,0.58,57,56,170,Pass,Average
+41,male,group C,associate's degree,reduced,Incomplete,55,61,54,56.7,55.0,3.79,61,54,170,Pass,Average
+42,female,group C,associate's degree,standard,Incomplete,58,73,68,66.3,68.0,7.64,73,58,199,Pass,Average
+43,female,group B,associate's degree,standard,Incomplete,53,58,65,58.7,58.0,6.03,65,53,176,Pass,Average
+44,male,group B,partial college,reduced,completed,59,65,66,63.3,65.0,3.79,66,59,190,Pass,Average
+45,female,group E,associate's degree,reduced,Incomplete,50,56,54,53.3,54.0,3.06,56,50,160,Pass,Average
+46,male,group B,associate's degree,standard,Incomplete,65,54,57,58.7,57.0,5.69,65,54,176,Pass,Average
+47,female,group A,associate's degree,standard,completed,55,65,62,60.7,62.0,5.13,65,55,182,Pass,Average
+48,female,group C,high school,standard,Incomplete,66,71,76,71.0,71.0,5.00,76,66,213,Pass,Good
+49,female,group D,associate's degree,reduced,completed,57,74,76,69.0,74.0,10.44,76,57,207,Pass,Good
+50,male,group C,high school,standard,completed,82,84,82,82.7,82.0,1.15,84,82,248,Pass,Good
+51,male,group E,partial college,standard,Incomplete,53,55,48,52.0,53.0,3.61,55,48,156,Pass,Average
+52,male,group E,associate's degree,reduced,completed,77,69,68,71.3,69.0,4.93,77,68,214,Pass,Good
+53,male,group C,partial college,standard,Incomplete,53,44,42,46.3,44.0,5.86,53,42,139,Pass,Average
+54,male,group D,high school,standard,Incomplete,88,78,75,80.3,78.0,6.81,88,75,241,Pass,Good
+55,female,group C,partial high school,reduced,completed,71,84,87,80.7,84.0,8.50,87,71,242,Pass,Good
+56,female,group C,high school,reduced,Incomplete,33,41,43,39.0,41.0,5.29,43,33,117,Fail,Poor
+57,female,group E,associate's degree,standard,completed,82,85,86,84.3,85.0,2.08,86,82,253,Pass,Excellent
+58,male,group D,associate's degree,standard,Incomplete,52,55,49,52.0,52.0,3.00,55,49,156,Pass,Average
+59,male,group D,partial college,standard,completed,58,59,58,58.3,58.0,0.58,59,58,175,Pass,Average
+60,female,group C,partial high school,reduced,Incomplete,0,17,10,9.0,10.0,8.54,17,0,27,Fail,Poor
+61,male,group E,bachelor's degree,reduced,completed,79,74,72,75.0,74.0,3.61,79,72,225,Pass,Good
+62,male,group A,partial high school,reduced,Incomplete,39,39,34,37.3,39.0,2.89,39,34,112,Fail,Poor
+63,male,group A,associate's degree,reduced,Incomplete,62,61,55,59.3,61.0,3.79,62,55,178,Pass,Average
+64,female,group C,associate's degree,standard,Incomplete,69,80,71,73.3,71.0,5.86,80,69,220,Pass,Good
+65,female,group D,partial high school,standard,Incomplete,59,58,59,58.7,59.0,0.58,59,58,176,Pass,Average
+66,male,group B,partial high school,standard,Incomplete,67,64,61,64.0,64.0,3.00,67,61,192,Pass,Average
+67,male,group D,partial high school,reduced,Incomplete,45,37,37,39.7,37.0,4.62,45,37,119,Fail,Poor
+68,female,group C,partial college,standard,Incomplete,60,72,74,68.7,72.0,7.57,74,60,206,Pass,Good
+69,male,group B,associate's degree,reduced,Incomplete,61,58,56,58.3,58.0,2.52,61,56,175,Pass,Average
+70,female,group C,associate's degree,standard,Incomplete,39,64,57,53.3,57.0,12.90,64,39,160,Fail,Average
+71,female,group D,partial college,reduced,completed,58,63,73,64.7,63.0,7.64,73,58,194,Pass,Average
+72,male,group D,partial college,standard,completed,63,55,63,60.3,63.0,4.62,63,55,181,Pass,Average
+73,female,group A,associate's degree,reduced,Incomplete,41,51,48,46.7,48.0,5.13,51,41,140,Pass,Average
+74,male,group C,partial high school,reduced,Incomplete,61,57,56,58.0,57.0,2.65,61,56,174,Pass,Average
+75,male,group C,partial high school,standard,Incomplete,49,49,41,46.3,49.0,4.62,49,41,139,Pass,Average
+76,male,group B,associate's degree,reduced,Incomplete,44,41,38,41.0,41.0,3.00,44,38,123,Fail,Poor
+77,male,group E,partial high school,standard,Incomplete,30,26,22,26.0,26.0,4.00,30,22,78,Fail,Poor
+78,male,group A,bachelor's degree,standard,completed,80,78,81,79.7,80.0,1.53,81,78,239,Pass,Good
+79,female,group D,partial high school,standard,completed,61,74,72,69.0,72.0,7.00,74,61,207,Pass,Good
+80,female,group E,master's degree,standard,Incomplete,62,68,68,66.0,68.0,3.46,68,62,198,Pass,Average
+81,female,group B,associate's degree,standard,Incomplete,47,49,50,48.7,49.0,1.53,50,47,146,Pass,Average
+82,male,group B,high school,reduced,Incomplete,49,45,45,46.3,45.0,2.31,49,45,139,Pass,Average
+83,male,group A,partial college,reduced,completed,50,47,54,50.3,50.0,3.51,54,47,151,Pass,Average
+84,male,group E,associate's degree,standard,Incomplete,72,64,63,66.3,64.0,4.93,72,63,199,Pass,Average
+85,male,group D,high school,reduced,Incomplete,42,39,34,38.3,39.0,4.04,42,34,115,Fail,Poor
+86,female,group C,partial college,standard,Incomplete,73,80,82,78.3,80.0,4.73,82,73,235,Pass,Good
+87,female,group C,partial college,reduced,Incomplete,76,83,88,82.3,83.0,6.03,88,76,247,Pass,Good
+88,female,group D,associate's degree,standard,Incomplete,71,71,74,72.0,71.0,1.73,74,71,216,Pass,Good
+89,female,group A,partial college,standard,Incomplete,58,70,67,65.0,67.0,6.24,70,58,195,Pass,Average
+90,female,group D,partial high school,standard,Incomplete,73,86,82,80.3,82.0,6.66,86,73,241,Pass,Good
+91,female,group C,bachelor's degree,standard,Incomplete,65,72,74,70.3,72.0,4.73,74,65,211,Pass,Good
+92,male,group C,high school,reduced,Incomplete,27,34,36,32.3,34.0,4.73,36,27,97,Fail,Poor
+93,male,group C,high school,standard,Incomplete,71,79,71,73.7,71.0,4.62,79,71,221,Pass,Good
+94,male,group C,associate's degree,reduced,completed,43,45,50,46.0,45.0,3.61,50,43,138,Pass,Average
+95,female,group B,partial college,standard,Incomplete,79,86,92,85.7,86.0,6.51,92,79,257,Pass,Excellent
+96,male,group C,associate's degree,reduced,completed,78,81,82,80.3,81.0,2.08,82,78,241,Pass,Good
+97,male,group B,partial high school,standard,completed,65,66,62,64.3,65.0,2.08,66,62,193,Pass,Average
+98,female,group E,partial college,standard,completed,63,72,70,68.3,70.0,4.73,72,63,205,Pass,Good
+99,female,group D,partial college,reduced,Incomplete,58,67,62,62.3,62.0,4.51,67,58,187,Pass,Average
+100,female,group D,bachelor's degree,standard,Incomplete,65,67,62,64.7,65.0,2.52,67,62,194,Pass,Average
+101,male,group B,partial college,standard,Incomplete,79,67,67,71.0,67.0,6.93,79,67,213,Pass,Good
+102,male,group D,bachelor's degree,standard,completed,68,74,74,72.0,74.0,3.46,74,68,216,Pass,Good
+103,female,group D,associate's degree,standard,Incomplete,85,91,89,88.3,89.0,3.06,91,85,265,Pass,Excellent
+104,male,group B,high school,standard,completed,60,44,47,50.3,47.0,8.50,60,44,151,Pass,Average
+105,male,group C,partial college,standard,completed,98,86,90,91.3,90.0,6.11,98,86,274,Pass,Excellent
+106,female,group C,partial college,standard,Incomplete,58,67,72,65.7,67.0,7.09,72,58,197,Pass,Average
+107,female,group D,master's degree,standard,Incomplete,87,100,100,95.7,100.0,7.51,100,87,287,Pass,Excellent
+108,male,group E,associate's degree,standard,completed,66,63,64,64.3,64.0,1.53,66,63,193,Pass,Average
+109,female,group B,associate's degree,reduced,Incomplete,52,76,70,66.0,70.0,12.49,76,52,198,Pass,Average
+110,female,group B,partial high school,standard,Incomplete,70,64,72,68.7,70.0,4.16,72,64,206,Pass,Good
+111,female,group D,associate's degree,reduced,completed,77,89,98,88.0,89.0,10.54,98,77,264,Pass,Excellent
+112,male,group C,high school,standard,Incomplete,62,55,49,55.3,55.0,6.51,62,49,166,Pass,Average
+113,male,group A,associate's degree,standard,Incomplete,54,53,47,51.3,53.0,3.79,54,47,154,Pass,Average
+114,female,group D,partial college,standard,Incomplete,51,58,54,54.3,54.0,3.51,58,51,163,Pass,Average
+115,female,group E,bachelor's degree,standard,completed,99,100,100,99.7,100.0,0.58,100,99,299,Pass,Excellent
+116,male,group C,high school,standard,Incomplete,84,77,74,78.3,77.0,5.13,84,74,235,Pass,Good
+117,female,group B,bachelor's degree,reduced,Incomplete,75,85,82,80.7,82.0,5.13,85,75,242,Pass,Good
+118,female,group D,bachelor's degree,standard,Incomplete,78,82,79,79.7,79.0,2.08,82,78,239,Pass,Good
+119,female,group D,partial high school,standard,Incomplete,51,63,61,58.3,61.0,6.43,63,51,175,Pass,Average
+120,female,group C,partial college,standard,Incomplete,55,69,65,63.0,65.0,7.21,69,55,189,Pass,Average
+121,female,group C,bachelor's degree,standard,completed,79,92,89,86.7,89.0,6.81,92,79,260,Pass,Excellent
+122,male,group B,associate's degree,standard,completed,91,89,92,90.7,91.0,1.53,92,89,272,Pass,Excellent
+123,female,group C,partial college,standard,completed,88,93,93,91.3,93.0,2.89,93,88,274,Pass,Excellent
+124,male,group D,high school,reduced,Incomplete,63,57,56,58.7,57.0,3.79,63,56,176,Pass,Average
+125,male,group E,partial college,standard,Incomplete,83,80,73,78.7,80.0,5.13,83,73,236,Pass,Good
+126,female,group B,high school,standard,Incomplete,87,95,86,89.3,87.0,4.93,95,86,268,Pass,Excellent
+127,male,group B,partial high school,standard,Incomplete,72,68,67,69.0,68.0,2.65,72,67,207,Pass,Good
+128,male,group D,partial college,standard,completed,65,77,74,72.0,74.0,6.24,77,65,216,Pass,Good
+129,male,group D,master's degree,standard,Incomplete,82,82,74,79.3,82.0,4.62,82,74,238,Pass,Good
+130,female,group A,bachelor's degree,standard,Incomplete,51,49,51,50.3,51.0,1.15,51,49,151,Pass,Average
+131,male,group D,master's degree,standard,Incomplete,89,84,82,85.0,84.0,3.61,89,82,255,Pass,Excellent
+132,male,group C,partial high school,reduced,completed,53,37,40,43.3,40.0,8.50,53,37,130,Fail,Average
+133,male,group E,partial college,reduced,completed,87,74,70,77.0,74.0,8.89,87,70,231,Pass,Good
+134,female,group C,partial college,standard,completed,75,81,84,80.0,81.0,4.58,84,75,240,Pass,Good
+135,male,group D,bachelor's degree,reduced,completed,74,79,75,76.0,75.0,2.65,79,74,228,Pass,Good
+136,male,group C,bachelor's degree,standard,Incomplete,58,55,48,53.7,55.0,5.13,58,48,161,Pass,Average
+137,male,group B,partial high school,standard,completed,51,54,41,48.7,51.0,6.81,54,41,146,Pass,Average
+138,male,group E,high school,standard,Incomplete,70,55,56,60.3,56.0,8.39,70,55,181,Pass,Average
+139,female,group C,associate's degree,standard,Incomplete,59,66,67,64.0,66.0,4.36,67,59,192,Pass,Average
+140,male,group D,partial college,standard,completed,71,61,69,67.0,69.0,5.29,71,61,201,Pass,Good
+141,female,group D,partial high school,standard,Incomplete,76,72,71,73.0,72.0,2.65,76,71,219,Pass,Good
+142,female,group C,partial college,reduced,Incomplete,59,62,64,61.7,62.0,2.52,64,59,185,Pass,Average
+143,female,group E,partial college,reduced,completed,42,55,54,50.3,54.0,7.23,55,42,151,Pass,Average
+144,male,group A,high school,standard,Incomplete,57,43,47,49.0,47.0,7.21,57,43,147,Pass,Average
+145,male,group D,partial college,standard,Incomplete,88,73,78,79.7,78.0,7.64,88,73,239,Pass,Good
+146,female,group C,partial college,reduced,Incomplete,22,39,33,31.3,33.0,8.62,39,22,94,Fail,Poor
+147,male,group B,partial high school,standard,Incomplete,88,84,75,82.3,84.0,6.66,88,75,247,Pass,Good
+148,male,group C,associate's degree,reduced,Incomplete,73,68,66,69.0,68.0,3.61,73,66,207,Pass,Good
+149,female,group D,bachelor's degree,standard,completed,68,75,81,74.7,75.0,6.51,81,68,224,Pass,Good
+150,male,group E,associate's degree,reduced,completed,100,100,93,97.7,100.0,4.04,100,93,293,Pass,Excellent
+151,male,group A,partial high school,standard,completed,62,67,69,66.0,67.0,3.61,69,62,198,Pass,Average
+152,male,group A,bachelor's degree,standard,Incomplete,77,67,68,70.7,68.0,5.51,77,67,212,Pass,Good
+153,female,group B,associate's degree,standard,completed,59,70,66,65.0,66.0,5.57,70,59,195,Pass,Average
+154,male,group D,bachelor's degree,standard,Incomplete,54,49,47,50.0,49.0,3.61,54,47,150,Pass,Average
+155,male,group D,partial high school,standard,Incomplete,62,67,61,63.3,62.0,3.21,67,61,190,Pass,Average
+156,female,group C,partial college,standard,completed,70,89,88,82.3,88.0,10.69,89,70,247,Pass,Good
+157,female,group E,high school,reduced,completed,66,74,78,72.7,74.0,6.11,78,66,218,Pass,Good
+158,male,group B,partial college,reduced,Incomplete,60,60,60,60.0,60.0,0.00,60,60,180,Pass,Average
+159,female,group B,associate's degree,standard,completed,61,86,87,78.0,86.0,14.73,87,61,234,Pass,Good
+160,male,group D,associate's degree,reduced,Incomplete,66,62,64,64.0,64.0,2.00,66,62,192,Pass,Average
+161,male,group B,associate's degree,reduced,completed,82,78,74,78.0,78.0,4.00,82,74,234,Pass,Good
+162,female,group E,partial college,reduced,completed,75,88,85,82.7,85.0,6.81,88,75,248,Pass,Good
+163,male,group B,master's degree,reduced,Incomplete,49,53,52,51.3,52.0,2.08,53,49,154,Pass,Average
+164,male,group C,high school,standard,Incomplete,52,53,49,51.3,52.0,2.08,53,49,154,Pass,Average
+165,female,group E,master's degree,standard,Incomplete,81,92,91,88.0,91.0,6.08,92,81,264,Pass,Excellent
+166,female,group C,bachelor's degree,standard,completed,96,100,100,98.7,100.0,2.31,100,96,296,Pass,Excellent
+167,male,group C,high school,reduced,completed,53,51,51,51.7,51.0,1.15,53,51,155,Pass,Average
+168,female,group B,master's degree,reduced,completed,58,76,78,70.7,76.0,11.02,78,58,212,Pass,Good
+169,female,group B,high school,standard,completed,68,83,78,76.3,78.0,7.64,83,68,229,Pass,Good
+170,female,group C,partial college,reduced,completed,67,75,70,70.7,70.0,4.04,75,67,212,Pass,Good
+171,male,group A,high school,standard,completed,72,73,74,73.0,73.0,1.00,74,72,219,Pass,Good
+172,male,group E,partial high school,standard,Incomplete,94,88,78,86.7,88.0,8.08,94,78,260,Pass,Excellent
+173,female,group D,partial college,standard,Incomplete,79,86,81,82.0,81.0,3.61,86,79,246,Pass,Good
+174,female,group C,associate's degree,standard,Incomplete,63,67,70,66.7,67.0,3.51,70,63,200,Pass,Good
+175,female,group C,bachelor's degree,reduced,completed,43,51,54,49.3,51.0,5.69,54,43,148,Pass,Average
+176,female,group C,master's degree,standard,completed,81,91,87,86.3,87.0,5.03,91,81,259,Pass,Excellent
+177,female,group B,high school,reduced,completed,46,54,58,52.7,54.0,6.11,58,46,158,Pass,Average
+178,female,group C,associate's degree,standard,completed,71,77,77,75.0,77.0,3.46,77,71,225,Pass,Good
+179,female,group B,master's degree,reduced,completed,52,70,62,61.3,62.0,9.02,70,52,184,Pass,Average
+180,female,group D,partial high school,standard,completed,97,100,100,99.0,100.0,1.73,100,97,297,Pass,Excellent
+181,male,group C,master's degree,reduced,completed,62,68,75,68.3,68.0,6.51,75,62,205,Pass,Good
+182,female,group C,partial college,reduced,Incomplete,46,64,66,58.7,64.0,11.02,66,46,176,Pass,Average
+183,female,group E,high school,standard,Incomplete,50,50,47,49.0,50.0,1.73,50,47,147,Pass,Average
+184,female,group D,associate's degree,standard,Incomplete,65,69,70,68.0,69.0,2.65,70,65,204,Pass,Good
+185,male,group C,partial high school,reduced,completed,45,52,49,48.7,49.0,3.51,52,45,146,Pass,Average
+186,male,group C,associate's degree,reduced,completed,65,67,65,65.7,65.0,1.15,67,65,197,Pass,Average
+187,male,group E,high school,standard,Incomplete,80,76,65,73.7,76.0,7.77,80,65,221,Pass,Good
+188,male,group D,partial high school,standard,completed,62,66,68,65.3,66.0,3.06,68,62,196,Pass,Average
+189,male,group B,partial high school,reduced,Incomplete,48,52,45,48.3,48.0,3.51,52,45,145,Pass,Average
+190,female,group C,bachelor's degree,standard,Incomplete,77,88,87,84.0,87.0,6.08,88,77,252,Pass,Excellent
+191,female,group E,associate's degree,standard,Incomplete,66,65,69,66.7,66.0,2.08,69,65,200,Pass,Good
+192,male,group D,partial college,standard,completed,76,83,79,79.3,79.0,3.51,83,76,238,Pass,Good
+193,female,group B,partial high school,standard,Incomplete,62,64,66,64.0,64.0,2.00,66,62,192,Pass,Average
+194,male,group D,partial college,standard,completed,77,62,62,67.0,62.0,8.66,77,62,201,Pass,Good
+195,female,group C,master's degree,standard,completed,69,84,85,79.3,84.0,8.96,85,69,238,Pass,Good
+196,male,group D,associate's degree,standard,Incomplete,61,55,52,56.0,55.0,4.58,61,52,168,Pass,Average
+197,male,group C,partial high school,reduced,completed,59,69,65,64.3,65.0,5.03,69,59,193,Pass,Average
+198,male,group E,high school,reduced,Incomplete,55,56,51,54.0,55.0,2.65,56,51,162,Pass,Average
+199,female,group B,partial college,reduced,Incomplete,45,53,55,51.0,53.0,5.29,55,45,153,Pass,Average
+200,female,group B,bachelor's degree,reduced,Incomplete,78,79,76,77.7,78.0,1.53,79,76,233,Pass,Good
+201,female,group C,associate's degree,standard,completed,67,84,86,79.0,84.0,10.44,86,67,237,Pass,Good
+202,female,group D,partial college,reduced,Incomplete,65,81,77,74.3,77.0,8.33,81,65,223,Pass,Good
+203,male,group C,associate's degree,standard,Incomplete,69,77,69,71.7,69.0,4.62,77,69,215,Pass,Good
+204,female,group B,associate's degree,standard,Incomplete,57,69,68,64.7,68.0,6.66,69,57,194,Pass,Average
+205,male,group C,partial college,standard,Incomplete,59,41,42,47.3,42.0,10.12,59,41,142,Pass,Average
+206,male,group D,partial high school,standard,completed,74,71,78,74.3,74.0,3.51,78,71,223,Pass,Good
+207,male,group E,bachelor's degree,standard,Incomplete,82,62,62,68.7,62.0,11.55,82,62,206,Pass,Good
+208,male,group E,high school,standard,completed,81,80,76,79.0,80.0,2.65,81,76,237,Pass,Good
+209,female,group B,partial college,reduced,Incomplete,74,81,76,77.0,76.0,3.61,81,74,231,Pass,Good
+210,female,group B,partial college,reduced,Incomplete,58,61,66,61.7,61.0,4.04,66,58,185,Pass,Average
+211,male,group D,partial high school,reduced,completed,80,79,79,79.3,79.0,0.58,80,79,238,Pass,Good
+212,male,group C,partial college,reduced,Incomplete,35,28,27,30.0,28.0,4.36,35,27,90,Fail,Poor
+213,female,group C,high school,reduced,Incomplete,42,62,60,54.7,60.0,11.02,62,42,164,Pass,Average
+214,male,group C,associate's degree,reduced,completed,60,51,56,55.7,56.0,4.51,60,51,167,Pass,Average
+215,male,group E,high school,standard,completed,87,91,81,86.3,87.0,5.03,91,81,259,Pass,Excellent
+216,male,group B,partial high school,standard,completed,84,83,75,80.7,83.0,4.93,84,75,242,Pass,Good
+217,female,group E,associate's degree,reduced,completed,83,86,88,85.7,86.0,2.52,88,83,257,Pass,Excellent
+218,female,group C,high school,reduced,Incomplete,34,42,39,38.3,39.0,4.04,42,34,115,Fail,Poor
+219,male,group B,high school,reduced,Incomplete,66,77,70,71.0,70.0,5.57,77,66,213,Pass,Good
+220,male,group B,partial high school,standard,completed,61,56,56,57.7,56.0,2.89,61,56,173,Pass,Average
+221,female,group D,high school,standard,completed,56,68,74,66.0,68.0,9.17,74,56,198,Pass,Average
+222,male,group B,associate's degree,standard,Incomplete,87,85,73,81.7,85.0,7.57,87,73,245,Pass,Good
+223,female,group C,partial high school,reduced,Incomplete,55,65,62,60.7,62.0,5.13,65,55,182,Pass,Average
+224,male,group D,partial high school,standard,Incomplete,86,80,75,80.3,80.0,5.51,86,75,241,Pass,Good
+225,female,group B,associate's degree,standard,completed,52,66,73,63.7,66.0,10.69,73,52,191,Pass,Average
+226,female,group E,master's degree,reduced,Incomplete,45,56,54,51.7,54.0,5.86,56,45,155,Pass,Average
+227,female,group C,partial college,standard,Incomplete,72,72,71,71.7,72.0,0.58,72,71,215,Pass,Good
+228,male,group D,high school,standard,Incomplete,57,50,54,53.7,54.0,3.51,57,50,161,Pass,Average
+229,male,group A,partial high school,reduced,Incomplete,68,72,64,68.0,68.0,4.00,72,64,204,Pass,Good
+230,female,group C,partial college,standard,completed,88,95,94,92.3,94.0,3.79,95,88,277,Pass,Excellent
+231,male,group D,partial college,standard,Incomplete,76,64,66,68.7,66.0,6.43,76,64,206,Pass,Good
+232,male,group C,associate's degree,standard,Incomplete,46,43,42,43.7,43.0,2.08,46,42,131,Pass,Average
+233,female,group B,bachelor's degree,standard,Incomplete,67,86,83,78.7,83.0,10.21,86,67,236,Pass,Good
+234,male,group E,partial high school,standard,Incomplete,92,87,78,85.7,87.0,7.09,92,78,257,Pass,Excellent
+235,male,group C,bachelor's degree,standard,completed,83,82,84,83.0,83.0,1.00,84,82,249,Pass,Good
+236,male,group D,associate's degree,standard,Incomplete,80,75,77,77.3,77.0,2.52,80,75,232,Pass,Good
+237,male,group D,bachelor's degree,reduced,Incomplete,63,66,67,65.3,66.0,2.08,67,63,196,Pass,Average
+238,female,group D,partial high school,standard,completed,64,60,74,66.0,64.0,7.21,74,60,198,Pass,Average
+239,male,group B,partial college,standard,Incomplete,54,52,51,52.3,52.0,1.53,54,51,157,Pass,Average
+240,male,group C,associate's degree,standard,Incomplete,84,80,80,81.3,80.0,2.31,84,80,244,Pass,Good
+241,male,group D,high school,reduced,completed,73,68,66,69.0,68.0,3.61,73,66,207,Pass,Good
+242,female,group E,bachelor's degree,standard,Incomplete,80,83,83,82.0,83.0,1.73,83,80,246,Pass,Good
+243,female,group D,high school,standard,Incomplete,56,52,55,54.3,55.0,2.08,56,52,163,Pass,Average
+244,male,group E,partial college,standard,Incomplete,59,51,43,51.0,51.0,8.00,59,43,153,Pass,Average
+245,male,group D,partial high school,standard,Incomplete,75,74,69,72.7,74.0,3.21,75,69,218,Pass,Good
+246,male,group C,associate's degree,standard,Incomplete,85,76,71,77.3,76.0,7.09,85,71,232,Pass,Good
+247,male,group E,associate's degree,standard,Incomplete,89,76,74,79.7,76.0,8.14,89,74,239,Pass,Good
+248,female,group B,high school,standard,completed,58,70,68,65.3,68.0,6.43,70,58,196,Pass,Average
+249,female,group B,high school,standard,Incomplete,65,64,62,63.7,64.0,1.53,65,62,191,Pass,Average
+250,male,group C,high school,standard,Incomplete,68,60,53,60.3,60.0,7.51,68,53,181,Pass,Average
+251,male,group A,partial high school,standard,completed,47,49,49,48.3,49.0,1.15,49,47,145,Pass,Average
+252,female,group D,partial college,reduced,Incomplete,71,83,83,79.0,83.0,6.93,83,71,237,Pass,Good
+253,female,group B,partial high school,standard,completed,60,70,70,66.7,70.0,5.77,70,60,200,Pass,Good
+254,male,group D,master's degree,standard,Incomplete,80,80,72,77.3,80.0,4.62,80,72,232,Pass,Good
+255,male,group D,high school,standard,Incomplete,54,52,52,52.7,52.0,1.15,54,52,158,Pass,Average
+256,female,group E,partial college,standard,Incomplete,62,73,70,68.3,70.0,5.69,73,62,205,Pass,Good
+257,female,group C,associate's degree,reduced,Incomplete,64,73,68,68.3,68.0,4.51,73,64,205,Pass,Good
+258,male,group C,associate's degree,standard,completed,78,77,77,77.3,77.0,0.58,78,77,232,Pass,Good
+259,female,group B,partial college,standard,Incomplete,70,75,78,74.3,75.0,4.04,78,70,223,Pass,Good
+260,female,group C,master's degree,reduced,completed,65,81,81,75.7,81.0,9.24,81,65,227,Pass,Good
+261,female,group C,partial high school,reduced,completed,64,79,77,73.3,77.0,8.14,79,64,220,Pass,Good
+262,male,group C,partial college,standard,completed,79,79,78,78.7,79.0,0.58,79,78,236,Pass,Good
+263,female,group C,partial high school,reduced,Incomplete,44,50,51,48.3,50.0,3.79,51,44,145,Pass,Average
+264,female,group E,high school,standard,Incomplete,99,93,90,94.0,93.0,4.58,99,90,282,Pass,Excellent
+265,male,group D,high school,standard,Incomplete,76,73,68,72.3,73.0,4.04,76,68,217,Pass,Good
+266,male,group D,partial high school,reduced,Incomplete,59,42,41,47.3,42.0,10.12,59,41,142,Pass,Average
+267,female,group C,bachelor's degree,standard,Incomplete,63,75,81,73.0,75.0,9.17,81,63,219,Pass,Good
+268,female,group D,high school,standard,Incomplete,69,72,77,72.7,72.0,4.04,77,69,218,Pass,Good
+269,female,group D,associate's degree,standard,completed,88,92,95,91.7,92.0,3.51,95,88,275,Pass,Excellent
+270,female,group E,partial college,reduced,Incomplete,71,76,70,72.3,71.0,3.21,76,70,217,Pass,Good
+271,male,group C,bachelor's degree,standard,Incomplete,69,63,61,64.3,63.0,4.16,69,61,193,Pass,Average
+272,male,group C,partial college,standard,Incomplete,58,49,42,49.7,49.0,8.02,58,42,149,Pass,Average
+273,female,group D,associate's degree,reduced,Incomplete,47,53,58,52.7,53.0,5.51,58,47,158,Pass,Average
+274,female,group D,partial college,standard,Incomplete,65,70,71,68.7,70.0,3.21,71,65,206,Pass,Good
+275,male,group B,partial college,standard,completed,88,85,76,83.0,85.0,6.24,88,76,249,Pass,Good
+276,male,group C,bachelor's degree,standard,Incomplete,83,78,73,78.0,78.0,5.00,83,73,234,Pass,Good
+277,female,group C,partial high school,standard,completed,85,92,93,90.0,92.0,4.36,93,85,270,Pass,Excellent
+278,female,group E,high school,standard,completed,59,63,75,65.7,63.0,8.33,75,59,197,Pass,Average
+279,female,group C,partial high school,reduced,Incomplete,65,86,80,77.0,80.0,10.82,86,65,231,Pass,Good
+280,male,group B,bachelor's degree,reduced,Incomplete,73,56,57,62.0,57.0,9.54,73,56,186,Pass,Average
+281,male,group D,high school,standard,Incomplete,53,52,42,49.0,52.0,6.08,53,42,147,Pass,Average
+282,male,group D,high school,standard,Incomplete,45,48,46,46.3,46.0,1.53,48,45,139,Pass,Average
+283,female,group D,bachelor's degree,reduced,Incomplete,73,79,84,78.7,79.0,5.51,84,73,236,Pass,Good
+284,female,group D,partial college,reduced,completed,70,78,78,75.3,78.0,4.62,78,70,226,Pass,Good
+285,female,group B,partial high school,standard,Incomplete,37,46,46,43.0,46.0,5.20,46,37,129,Fail,Average
+286,male,group B,associate's degree,standard,completed,81,82,82,81.7,82.0,0.58,82,81,245,Pass,Good
+287,male,group E,associate's degree,standard,completed,97,82,88,89.0,88.0,7.55,97,82,267,Pass,Excellent
+288,female,group B,partial high school,standard,Incomplete,67,89,82,79.3,82.0,11.24,89,67,238,Pass,Good
+289,male,group B,bachelor's degree,reduced,Incomplete,88,75,76,79.7,76.0,7.23,88,75,239,Pass,Good
+290,male,group E,partial high school,standard,completed,77,76,77,76.7,77.0,0.58,77,76,230,Pass,Good
+291,male,group C,associate's degree,standard,Incomplete,76,70,68,71.3,70.0,4.16,76,68,214,Pass,Good
+292,male,group D,partial high school,standard,Incomplete,86,73,70,76.3,73.0,8.50,86,70,229,Pass,Good
+293,male,group C,partial high school,standard,completed,63,60,57,60.0,60.0,3.00,63,57,180,Pass,Average
+294,female,group E,bachelor's degree,standard,Incomplete,65,73,75,71.0,73.0,5.29,75,65,213,Pass,Good
+295,male,group D,high school,reduced,completed,78,77,80,78.3,78.0,1.53,80,77,235,Pass,Good
+296,male,group B,associate's degree,reduced,Incomplete,67,62,60,63.0,62.0,3.61,67,60,189,Pass,Average
+297,male,group A,partial high school,standard,completed,46,41,43,43.3,43.0,2.52,46,41,130,Pass,Average
+298,male,group E,associate's degree,standard,completed,71,74,68,71.0,71.0,3.00,74,68,213,Pass,Good
+299,male,group C,high school,reduced,completed,40,46,50,45.3,46.0,5.03,50,40,136,Pass,Average
+300,male,group D,associate's degree,reduced,Incomplete,90,87,75,84.0,87.0,7.94,90,75,252,Pass,Excellent
+301,male,group A,partial college,reduced,completed,81,78,81,80.0,81.0,1.73,81,78,240,Pass,Good
+302,male,group D,partial high school,reduced,Incomplete,56,54,52,54.0,54.0,2.00,56,52,162,Pass,Average
+303,female,group C,associate's degree,standard,completed,67,84,81,77.3,81.0,9.07,84,67,232,Pass,Good
+304,male,group B,associate's degree,standard,Incomplete,80,76,64,73.3,76.0,8.33,80,64,220,Pass,Good
+305,female,group C,associate's degree,standard,completed,74,75,83,77.3,75.0,4.93,83,74,232,Pass,Good
+306,male,group A,partial college,standard,Incomplete,69,67,69,68.3,69.0,1.15,69,67,205,Pass,Good
+307,male,group E,partial college,standard,completed,99,87,81,89.0,87.0,9.17,99,81,267,Pass,Excellent
+308,male,group C,partial high school,standard,Incomplete,51,52,44,49.0,51.0,4.36,52,44,147,Pass,Average
+309,female,group B,associate's degree,reduced,Incomplete,53,71,67,63.7,67.0,9.45,71,53,191,Pass,Average
+310,female,group D,high school,reduced,Incomplete,49,57,52,52.7,52.0,4.04,57,49,158,Pass,Average
+311,female,group B,associate's degree,standard,Incomplete,73,76,80,76.3,76.0,3.51,80,73,229,Pass,Good
+312,male,group B,bachelor's degree,standard,Incomplete,66,60,57,61.0,60.0,4.58,66,57,183,Pass,Average
+313,male,group D,bachelor's degree,standard,completed,67,61,68,65.3,67.0,3.79,68,61,196,Pass,Average
+314,female,group C,associate's degree,reduced,completed,68,67,69,68.0,68.0,1.00,69,67,204,Pass,Good
+315,female,group C,bachelor's degree,standard,completed,59,64,75,66.0,64.0,8.19,75,59,198,Pass,Average
+316,male,group C,high school,standard,Incomplete,71,66,65,67.3,66.0,3.21,71,65,202,Pass,Good
+317,female,group D,master's degree,standard,completed,77,82,91,83.3,82.0,7.09,91,77,250,Pass,Excellent
+318,male,group C,associate's degree,standard,Incomplete,83,72,78,77.7,78.0,5.51,83,72,233,Pass,Good
+319,male,group B,bachelor's degree,standard,Incomplete,63,71,69,67.7,69.0,4.16,71,63,203,Pass,Good
+320,female,group D,associate's degree,reduced,Incomplete,56,65,63,61.3,63.0,4.73,65,56,184,Pass,Average
+321,female,group C,high school,reduced,completed,67,79,84,76.7,79.0,8.74,84,67,230,Pass,Good
+322,female,group E,high school,standard,Incomplete,75,86,79,80.0,79.0,5.57,86,75,240,Pass,Good
+323,female,group C,partial college,standard,Incomplete,71,81,80,77.3,80.0,5.51,81,71,232,Pass,Good
+324,female,group C,partial high school,reduced,Incomplete,43,53,53,49.7,53.0,5.77,53,43,149,Pass,Average
+325,female,group C,high school,reduced,Incomplete,41,46,43,43.3,43.0,2.52,46,41,130,Pass,Average
+326,female,group C,partial college,standard,Incomplete,82,90,94,88.7,90.0,6.11,94,82,266,Pass,Excellent
+327,male,group C,partial college,standard,Incomplete,61,61,62,61.3,61.0,0.58,62,61,184,Pass,Average
+328,male,group A,partial college,reduced,Incomplete,28,23,19,23.3,23.0,4.51,28,19,70,Fail,Poor
+329,male,group C,associate's degree,standard,completed,82,75,77,78.0,77.0,3.61,82,75,234,Pass,Good
+330,female,group B,partial high school,standard,Incomplete,41,55,51,49.0,51.0,7.21,55,41,147,Pass,Average
+331,male,group C,high school,standard,Incomplete,71,60,61,64.0,61.0,6.08,71,60,192,Pass,Average
+332,male,group C,associate's degree,standard,Incomplete,47,37,35,39.7,37.0,6.43,47,35,119,Fail,Poor
+333,male,group E,associate's degree,standard,completed,62,56,53,57.0,56.0,4.58,62,53,171,Pass,Average
+334,male,group B,associate's degree,standard,Incomplete,90,78,81,83.0,81.0,6.24,90,78,249,Pass,Good
+335,female,group C,bachelor's degree,standard,Incomplete,83,93,95,90.3,93.0,6.43,95,83,271,Pass,Excellent
+336,female,group B,partial college,reduced,Incomplete,61,68,66,65.0,66.0,3.61,68,61,195,Pass,Average
+337,male,group D,partial high school,standard,completed,76,70,69,71.7,70.0,3.79,76,69,215,Pass,Good
+338,male,group C,associate's degree,standard,Incomplete,49,51,43,47.7,49.0,4.16,51,43,143,Pass,Average
+339,female,group B,partial high school,reduced,Incomplete,24,38,27,29.7,27.0,7.37,38,24,89,Fail,Poor
+340,female,group D,partial high school,reduced,completed,35,55,60,50.0,55.0,13.23,60,35,150,Fail,Average
+341,male,group C,high school,reduced,Incomplete,58,61,52,57.0,58.0,4.58,61,52,171,Pass,Average
+342,female,group C,high school,standard,Incomplete,61,73,63,65.7,63.0,6.43,73,61,197,Pass,Average
+343,female,group B,high school,standard,completed,69,76,74,73.0,74.0,3.61,76,69,219,Pass,Good
+344,male,group D,associate's degree,standard,completed,67,72,67,68.7,67.0,2.89,72,67,206,Pass,Good
+345,male,group D,partial college,standard,Incomplete,79,73,67,73.0,73.0,6.00,79,67,219,Pass,Good
+346,female,group C,high school,standard,Incomplete,72,80,75,75.7,75.0,4.04,80,72,227,Pass,Good
+347,male,group B,partial college,standard,Incomplete,62,61,57,60.0,61.0,2.65,62,57,180,Pass,Average
+348,female,group C,bachelor's degree,standard,completed,77,94,95,88.7,94.0,10.12,95,77,266,Pass,Excellent
+349,male,group D,high school,reduced,Incomplete,75,74,66,71.7,74.0,4.93,75,66,215,Pass,Good
+350,male,group E,associate's degree,standard,Incomplete,87,74,76,79.0,76.0,7.00,87,74,237,Pass,Good
+351,female,group B,bachelor's degree,standard,Incomplete,52,65,69,62.0,65.0,8.89,69,52,186,Pass,Average
+352,male,group E,partial college,standard,Incomplete,66,57,52,58.3,57.0,7.09,66,52,175,Pass,Average
+353,female,group C,partial college,standard,completed,63,78,80,73.7,78.0,9.29,80,63,221,Pass,Good
+354,female,group C,associate's degree,standard,Incomplete,46,58,57,53.7,57.0,6.66,58,46,161,Pass,Average
+355,female,group C,partial college,standard,Incomplete,59,71,70,66.7,70.0,6.66,71,59,200,Pass,Good
+356,female,group B,bachelor's degree,standard,Incomplete,61,72,70,67.7,70.0,5.86,72,61,203,Pass,Good
+357,male,group A,associate's degree,standard,Incomplete,63,61,61,61.7,61.0,1.15,63,61,185,Pass,Average
+358,female,group C,partial college,reduced,completed,42,66,69,59.0,66.0,14.80,69,42,177,Pass,Average
+359,male,group D,partial college,reduced,Incomplete,59,62,61,60.7,61.0,1.53,62,59,182,Pass,Average
+360,female,group D,partial college,standard,Incomplete,80,90,89,86.3,89.0,5.51,90,80,259,Pass,Excellent
+361,female,group B,high school,standard,Incomplete,58,62,59,59.7,59.0,2.08,62,58,179,Pass,Average
+362,male,group B,partial high school,standard,completed,85,84,78,82.3,84.0,3.79,85,78,247,Pass,Good
+363,female,group C,partial college,standard,Incomplete,52,58,58,56.0,58.0,3.46,58,52,168,Pass,Average
+364,female,group D,partial high school,reduced,Incomplete,27,34,32,31.0,32.0,3.61,34,27,93,Fail,Poor
+365,male,group C,partial college,standard,Incomplete,59,60,58,59.0,59.0,1.00,60,58,177,Pass,Average
+366,male,group A,bachelor's degree,reduced,completed,49,58,60,55.7,58.0,5.86,60,49,167,Pass,Average
+367,male,group C,high school,standard,completed,69,58,53,60.0,58.0,8.19,69,53,180,Pass,Average
+368,male,group C,bachelor's degree,reduced,Incomplete,61,66,61,62.7,61.0,2.89,66,61,188,Pass,Average
+369,female,group A,partial high school,reduced,Incomplete,44,64,58,55.3,58.0,10.26,64,44,166,Pass,Average
+370,female,group D,partial high school,standard,Incomplete,73,84,85,80.7,84.0,6.66,85,73,242,Pass,Good
+371,male,group E,partial college,standard,Incomplete,84,77,71,77.3,77.0,6.51,84,71,232,Pass,Good
+372,female,group C,partial college,reduced,completed,45,73,70,62.7,70.0,15.37,73,45,188,Pass,Average
+373,male,group D,partial high school,standard,Incomplete,74,74,72,73.3,74.0,1.15,74,72,220,Pass,Good
+374,female,group D,partial college,standard,completed,82,97,96,91.7,96.0,8.39,97,82,275,Pass,Excellent
+375,female,group D,bachelor's degree,standard,Incomplete,59,70,73,67.3,70.0,7.37,73,59,202,Pass,Good
+376,male,group E,associate's degree,reduced,Incomplete,46,43,41,43.3,43.0,2.52,46,41,130,Pass,Average
+377,female,group D,partial high school,standard,Incomplete,80,90,82,84.0,82.0,5.29,90,80,252,Pass,Excellent
+378,female,group D,master's degree,reduced,completed,85,95,100,93.3,95.0,7.64,100,85,280,Pass,Excellent
+379,female,group A,partial high school,standard,Incomplete,71,83,77,77.0,77.0,6.00,83,71,231,Pass,Good
+380,male,group A,bachelor's degree,standard,Incomplete,66,64,62,64.0,64.0,2.00,66,62,192,Pass,Average
+381,female,group B,associate's degree,standard,Incomplete,80,86,83,83.0,83.0,3.00,86,80,249,Pass,Good
+382,male,group C,associate's degree,standard,completed,87,100,95,94.0,95.0,6.56,100,87,282,Pass,Excellent
+383,male,group C,master's degree,reduced,Incomplete,79,81,71,77.0,79.0,5.29,81,71,231,Pass,Good
+384,female,group E,partial high school,reduced,Incomplete,38,49,45,44.0,45.0,5.57,49,38,132,Fail,Average
+385,female,group A,partial high school,reduced,Incomplete,38,43,43,41.3,43.0,2.89,43,38,124,Fail,Poor
+386,female,group E,partial college,standard,Incomplete,67,76,75,72.7,75.0,4.93,76,67,218,Pass,Good
+387,female,group E,bachelor's degree,standard,Incomplete,64,73,70,69.0,70.0,4.58,73,64,207,Pass,Good
+388,female,group C,associate's degree,reduced,Incomplete,57,78,67,67.3,67.0,10.50,78,57,202,Pass,Good
+389,female,group D,high school,standard,Incomplete,62,64,64,63.3,64.0,1.15,64,62,190,Pass,Average
+390,male,group D,master's degree,standard,Incomplete,73,70,75,72.7,73.0,2.52,75,70,218,Pass,Good
+391,male,group E,partial high school,reduced,completed,73,67,59,66.3,67.0,7.02,73,59,199,Pass,Average
+392,female,group D,partial college,standard,Incomplete,77,68,77,74.0,77.0,5.20,77,68,222,Pass,Good
+393,male,group E,partial college,standard,Incomplete,76,67,67,70.0,67.0,5.20,76,67,210,Pass,Good
+394,male,group C,associate's degree,standard,completed,57,54,56,55.7,56.0,1.53,57,54,167,Pass,Average
+395,female,group C,partial high school,standard,completed,65,74,77,72.0,74.0,6.24,77,65,216,Pass,Good
+396,male,group A,high school,reduced,Incomplete,48,45,41,44.7,45.0,3.51,48,41,134,Pass,Average
+397,female,group B,high school,reduced,Incomplete,50,67,63,60.0,63.0,8.89,67,50,180,Pass,Average
+398,female,group C,associate's degree,standard,Incomplete,85,89,95,89.7,89.0,5.03,95,85,269,Pass,Excellent
+399,male,group B,partial high school,standard,Incomplete,74,63,57,64.7,63.0,8.62,74,57,194,Pass,Average
+400,male,group D,partial high school,standard,Incomplete,60,59,54,57.7,59.0,3.21,60,54,173,Pass,Average
+401,female,group C,partial high school,standard,completed,59,54,67,60.0,59.0,6.56,67,54,180,Pass,Average
+402,male,group A,partial college,standard,Incomplete,53,43,43,46.3,43.0,5.77,53,43,139,Pass,Average
+403,female,group A,partial college,reduced,Incomplete,49,65,55,56.3,55.0,8.08,65,49,169,Pass,Average
+404,female,group D,high school,standard,completed,88,99,100,95.7,99.0,6.66,100,88,287,Pass,Excellent
+405,female,group C,high school,standard,Incomplete,54,59,62,58.3,59.0,4.04,62,54,175,Pass,Average
+406,female,group C,partial high school,standard,Incomplete,63,73,68,68.0,68.0,5.00,73,63,204,Pass,Good
+407,male,group B,associate's degree,standard,completed,65,65,63,64.3,65.0,1.15,65,63,193,Pass,Average
+408,female,group B,associate's degree,standard,Incomplete,82,80,77,79.7,80.0,2.52,82,77,239,Pass,Good
+409,female,group D,high school,reduced,completed,52,57,56,55.0,56.0,2.65,57,52,165,Pass,Average
+410,male,group D,associate's degree,standard,completed,87,84,85,85.3,85.0,1.53,87,84,256,Pass,Excellent
+411,female,group D,master's degree,standard,completed,70,71,74,71.7,71.0,2.08,74,70,215,Pass,Good
+412,male,group E,partial college,standard,completed,84,83,78,81.7,83.0,3.21,84,78,245,Pass,Good
+413,male,group D,associate's degree,standard,Incomplete,71,66,60,65.7,66.0,5.51,71,60,197,Pass,Average
+414,male,group B,partial high school,standard,completed,63,67,67,65.7,67.0,2.31,67,63,197,Pass,Average
+415,female,group C,bachelor's degree,reduced,completed,51,72,79,67.3,72.0,14.57,79,51,202,Pass,Good
+416,male,group E,high school,standard,Incomplete,84,73,69,75.3,73.0,7.77,84,69,226,Pass,Good
+417,male,group C,bachelor's degree,standard,completed,71,74,68,71.0,71.0,3.00,74,68,213,Pass,Good
+418,male,group C,associate's degree,standard,Incomplete,74,73,67,71.3,73.0,3.79,74,67,214,Pass,Good
+419,male,group D,partial college,standard,Incomplete,68,59,62,63.0,62.0,4.58,68,59,189,Pass,Average
+420,male,group E,high school,reduced,completed,57,56,54,55.7,56.0,1.53,57,54,167,Pass,Average
+421,female,group C,associate's degree,reduced,completed,82,93,93,89.3,93.0,6.35,93,82,268,Pass,Excellent
+422,female,group D,high school,standard,completed,57,58,64,59.7,58.0,3.79,64,57,179,Pass,Average
+423,female,group D,master's degree,reduced,completed,47,58,67,57.3,58.0,10.02,67,47,172,Pass,Average
+424,female,group A,partial high school,standard,completed,59,85,80,74.7,80.0,13.80,85,59,224,Pass,Good
+425,male,group B,partial college,reduced,Incomplete,41,39,34,38.0,39.0,3.61,41,34,114,Fail,Poor
+426,female,group C,partial college,reduced,Incomplete,62,67,62,63.7,62.0,2.89,67,62,191,Pass,Average
+427,male,group C,bachelor's degree,standard,Incomplete,86,83,86,85.0,86.0,1.73,86,83,255,Pass,Excellent
+428,male,group C,partial high school,reduced,Incomplete,69,71,65,68.3,69.0,3.06,71,65,205,Pass,Good
+429,male,group A,partial high school,reduced,Incomplete,65,59,53,59.0,59.0,6.00,65,53,177,Pass,Average
+430,male,group C,partial high school,reduced,Incomplete,68,63,54,61.7,63.0,7.09,68,54,185,Pass,Average
+431,male,group C,associate's degree,reduced,Incomplete,64,66,59,63.0,64.0,3.61,66,59,189,Pass,Average
+432,female,group C,high school,standard,Incomplete,61,72,70,67.7,70.0,5.86,72,61,203,Pass,Good
+433,male,group C,high school,standard,Incomplete,61,56,55,57.3,56.0,3.21,61,55,172,Pass,Average
+434,female,group A,partial high school,reduced,Incomplete,47,59,50,52.0,50.0,6.24,59,47,156,Pass,Average
+435,male,group C,partial high school,standard,Incomplete,73,66,66,68.3,66.0,4.04,73,66,205,Pass,Good
+436,male,group C,partial college,reduced,completed,50,48,53,50.3,50.0,2.52,53,48,151,Pass,Average
+437,male,group D,associate's degree,standard,Incomplete,75,68,64,69.0,68.0,5.57,75,64,207,Pass,Good
+438,male,group D,associate's degree,reduced,Incomplete,75,66,73,71.3,73.0,4.73,75,66,214,Pass,Good
+439,male,group C,high school,standard,Incomplete,70,56,51,59.0,56.0,9.85,70,51,177,Pass,Average
+440,male,group D,partial high school,standard,completed,89,88,82,86.3,88.0,3.79,89,82,259,Pass,Excellent
+441,female,group C,partial college,standard,completed,67,81,79,75.7,79.0,7.57,81,67,227,Pass,Good
+442,female,group D,high school,standard,Incomplete,78,81,80,79.7,80.0,1.53,81,78,239,Pass,Good
+443,female,group A,partial high school,reduced,Incomplete,59,73,69,67.0,69.0,7.21,73,59,201,Pass,Good
+444,female,group B,associate's degree,standard,Incomplete,73,83,76,77.3,76.0,5.13,83,73,232,Pass,Good
+445,male,group A,partial high school,reduced,Incomplete,79,82,73,78.0,79.0,4.58,82,73,234,Pass,Good
+446,female,group C,partial high school,standard,completed,67,74,77,72.7,74.0,5.13,77,67,218,Pass,Good
+447,male,group D,partial college,reduced,Incomplete,69,66,60,65.0,66.0,4.58,69,60,195,Pass,Average
+448,male,group C,high school,standard,completed,86,81,80,82.3,81.0,3.21,86,80,247,Pass,Good
+449,male,group B,high school,standard,Incomplete,47,46,42,45.0,46.0,2.65,47,42,135,Pass,Average
+450,male,group B,associate's degree,standard,Incomplete,81,73,72,75.3,73.0,4.93,81,72,226,Pass,Good
+451,female,group C,partial college,reduced,completed,64,85,85,78.0,85.0,12.12,85,64,234,Pass,Good
+452,female,group E,partial college,standard,Incomplete,100,92,97,96.3,97.0,4.04,100,92,289,Pass,Excellent
+453,female,group C,associate's degree,reduced,Incomplete,65,77,74,72.0,74.0,6.24,77,65,216,Pass,Good
+454,male,group C,partial college,reduced,Incomplete,65,58,49,57.3,58.0,8.02,65,49,172,Pass,Average
+455,female,group C,associate's degree,reduced,Incomplete,53,61,62,58.7,61.0,4.93,62,53,176,Pass,Average
+456,male,group C,bachelor's degree,reduced,Incomplete,37,56,47,46.7,47.0,9.50,56,37,140,Fail,Average
+457,female,group D,bachelor's degree,standard,Incomplete,79,89,89,85.7,89.0,5.77,89,79,257,Pass,Excellent
+458,male,group D,associate's degree,reduced,Incomplete,53,54,48,51.7,53.0,3.21,54,48,155,Pass,Average
+459,female,group E,bachelor's degree,standard,Incomplete,100,100,100,100.0,100.0,0.00,100,100,300,Pass,Excellent
+460,male,group B,high school,standard,completed,72,65,68,68.3,68.0,3.51,72,65,205,Pass,Good
+461,male,group C,bachelor's degree,reduced,Incomplete,53,58,55,55.3,55.0,2.52,58,53,166,Pass,Average
+462,male,group B,partial college,reduced,Incomplete,54,54,45,51.0,54.0,5.20,54,45,153,Pass,Average
+463,female,group E,partial college,standard,Incomplete,71,70,76,72.3,71.0,3.21,76,70,217,Pass,Good
+464,female,group C,partial college,reduced,Incomplete,77,90,91,86.0,90.0,7.81,91,77,258,Pass,Excellent
+465,male,group A,bachelor's degree,standard,completed,75,58,62,65.0,62.0,8.89,75,58,195,Pass,Average
+466,female,group C,partial college,standard,Incomplete,84,87,91,87.3,87.0,3.51,91,84,262,Pass,Excellent
+467,female,group D,associate's degree,reduced,Incomplete,26,31,38,31.7,31.0,6.03,38,26,95,Fail,Poor
+468,male,group A,high school,reduced,completed,72,67,65,68.0,67.0,3.61,72,65,204,Pass,Good
+469,female,group A,high school,reduced,completed,77,88,85,83.3,85.0,5.69,88,77,250,Pass,Excellent
+470,male,group C,partial college,standard,Incomplete,91,74,76,80.3,76.0,9.29,91,74,241,Pass,Good
+471,female,group C,associate's degree,standard,completed,83,85,90,86.0,85.0,3.61,90,83,258,Pass,Excellent
+472,female,group C,high school,standard,Incomplete,63,69,74,68.7,69.0,5.51,74,63,206,Pass,Good
+473,female,group C,associate's degree,standard,completed,68,86,84,79.3,84.0,9.87,86,68,238,Pass,Good
+474,female,group D,partial high school,standard,Incomplete,59,67,61,62.3,61.0,4.16,67,59,187,Pass,Average
+475,female,group B,associate's degree,standard,completed,90,90,91,90.3,90.0,0.58,91,90,271,Pass,Excellent
+476,female,group D,bachelor's degree,standard,completed,71,76,83,76.7,76.0,6.03,83,71,230,Pass,Good
+477,male,group E,bachelor's degree,standard,completed,76,62,66,68.0,66.0,7.21,76,62,204,Pass,Good
+478,male,group D,associate's degree,standard,Incomplete,80,68,72,73.3,72.0,6.11,80,68,220,Pass,Good
+479,female,group D,master's degree,standard,Incomplete,55,64,70,63.0,64.0,7.55,70,55,189,Pass,Average
+480,male,group E,associate's degree,standard,Incomplete,76,71,67,71.3,71.0,4.51,76,67,214,Pass,Good
+481,male,group B,high school,standard,completed,73,71,68,70.7,71.0,2.52,73,68,212,Pass,Good
+482,female,group D,associate's degree,reduced,Incomplete,52,59,56,55.7,56.0,3.51,59,52,167,Pass,Average
+483,male,group C,partial college,reduced,Incomplete,68,68,61,65.7,68.0,4.04,68,61,197,Pass,Average
+484,male,group A,high school,standard,Incomplete,59,52,46,52.3,52.0,6.51,59,46,157,Pass,Average
+485,female,group B,associate's degree,standard,Incomplete,49,52,54,51.7,52.0,2.52,54,49,155,Pass,Average
+486,male,group C,high school,standard,Incomplete,70,74,71,71.7,71.0,2.08,74,70,215,Pass,Good
+487,male,group D,partial college,reduced,Incomplete,61,47,56,54.7,56.0,7.09,61,47,164,Pass,Average
+488,female,group C,associate's degree,reduced,Incomplete,60,75,74,69.7,74.0,8.39,75,60,209,Pass,Good
+489,male,group B,partial high school,standard,completed,64,53,57,58.0,57.0,5.57,64,53,174,Pass,Average
+490,male,group A,associate's degree,reduced,completed,79,82,82,81.0,82.0,1.73,82,79,243,Pass,Good
+491,female,group A,associate's degree,reduced,Incomplete,65,85,76,75.3,76.0,10.02,85,65,226,Pass,Good
+492,female,group C,associate's degree,standard,Incomplete,64,64,70,66.0,64.0,3.46,70,64,198,Pass,Average
+493,female,group C,partial college,standard,Incomplete,83,83,90,85.3,83.0,4.04,90,83,256,Pass,Excellent
+494,female,group C,bachelor's degree,standard,Incomplete,81,88,90,86.3,88.0,4.73,90,81,259,Pass,Excellent
+495,female,group B,high school,standard,Incomplete,54,64,68,62.0,64.0,7.21,68,54,186,Pass,Average
+496,male,group D,high school,standard,completed,68,64,66,66.0,66.0,2.00,68,64,198,Pass,Average
+497,female,group C,partial college,standard,Incomplete,54,48,52,51.3,52.0,3.06,54,48,154,Pass,Average
+498,female,group D,partial college,reduced,completed,59,78,76,71.0,76.0,10.44,78,59,213,Pass,Good
+499,female,group B,partial high school,standard,Incomplete,66,69,68,67.7,68.0,1.53,69,66,203,Pass,Good
+500,male,group E,partial college,standard,Incomplete,76,71,72,73.0,72.0,2.65,76,71,219,Pass,Good
+501,female,group D,master's degree,standard,Incomplete,74,79,82,78.3,79.0,4.04,82,74,235,Pass,Good
+502,female,group B,associate's degree,standard,completed,94,87,92,91.0,92.0,3.61,94,87,273,Pass,Excellent
+503,male,group C,partial college,reduced,Incomplete,63,61,54,59.3,61.0,4.73,63,54,178,Pass,Average
+504,female,group E,associate's degree,standard,completed,95,89,92,92.0,92.0,3.00,95,89,276,Pass,Excellent
+505,female,group D,master's degree,reduced,Incomplete,40,59,54,51.0,54.0,9.85,59,40,153,Pass,Average
+506,female,group B,partial high school,standard,Incomplete,82,82,80,81.3,82.0,1.15,82,80,244,Pass,Good
+507,male,group A,high school,standard,Incomplete,68,70,66,68.0,68.0,2.00,70,66,204,Pass,Good
+508,male,group B,bachelor's degree,reduced,Incomplete,55,59,54,56.0,55.0,2.65,59,54,168,Pass,Average
+509,male,group C,master's degree,standard,Incomplete,79,78,77,78.0,78.0,1.00,79,77,234,Pass,Good
+510,female,group C,bachelor's degree,standard,Incomplete,86,92,87,88.3,87.0,3.21,92,86,265,Pass,Excellent
+511,male,group D,partial college,standard,Incomplete,76,71,73,73.3,73.0,2.52,76,71,220,Pass,Good
+512,male,group A,partial high school,standard,Incomplete,64,50,43,52.3,50.0,10.69,64,43,157,Pass,Average
+513,male,group D,partial high school,reduced,Incomplete,62,49,52,54.3,52.0,6.81,62,49,163,Pass,Average
+514,female,group B,partial high school,standard,completed,54,61,62,59.0,61.0,4.36,62,54,177,Pass,Average
+515,female,group B,master's degree,reduced,completed,77,97,94,89.3,94.0,10.79,97,77,268,Pass,Excellent
+516,female,group C,partial high school,standard,completed,76,87,85,82.7,85.0,5.86,87,76,248,Pass,Good
+517,female,group D,partial college,standard,Incomplete,74,89,84,82.3,84.0,7.64,89,74,247,Pass,Good
+518,female,group E,partial college,standard,completed,66,74,73,71.0,73.0,4.36,74,66,213,Pass,Good
+519,female,group D,partial high school,standard,completed,66,78,78,74.0,78.0,6.93,78,66,222,Pass,Good
+520,female,group B,high school,reduced,completed,67,78,79,74.7,78.0,6.66,79,67,224,Pass,Good
+521,male,group D,partial college,standard,Incomplete,71,49,52,57.3,52.0,11.93,71,49,172,Pass,Average
+522,female,group C,associate's degree,standard,Incomplete,91,86,84,87.0,86.0,3.61,91,84,261,Pass,Excellent
+523,male,group D,bachelor's degree,standard,Incomplete,69,58,57,61.3,58.0,6.66,69,57,184,Pass,Average
+524,male,group C,master's degree,reduced,Incomplete,54,59,50,54.3,54.0,4.51,59,50,163,Pass,Average
+525,male,group C,high school,standard,completed,53,52,49,51.3,52.0,2.08,53,49,154,Pass,Average
+526,male,group E,partial college,standard,Incomplete,68,60,59,62.3,60.0,4.93,68,59,187,Pass,Average
+527,male,group C,partial high school,reduced,completed,56,61,60,59.0,60.0,2.65,61,56,177,Pass,Average
+528,female,group C,high school,reduced,Incomplete,36,53,43,44.0,43.0,8.54,53,36,132,Fail,Average
+529,female,group D,bachelor's degree,reduced,Incomplete,29,41,47,39.0,41.0,9.17,47,29,117,Fail,Poor
+530,female,group C,associate's degree,standard,Incomplete,62,74,70,68.7,70.0,6.11,74,62,206,Pass,Good
+531,female,group C,associate's degree,standard,completed,68,67,73,69.3,68.0,3.21,73,67,208,Pass,Good
+532,female,group C,partial high school,standard,Incomplete,47,54,53,51.3,53.0,3.79,54,47,154,Pass,Average
+533,male,group E,associate's degree,standard,completed,62,61,58,60.3,61.0,2.08,62,58,181,Pass,Average
+534,female,group E,associate's degree,standard,completed,79,88,94,87.0,88.0,7.55,94,79,261,Pass,Excellent
+535,male,group B,high school,standard,completed,73,69,68,70.0,69.0,2.65,73,68,210,Pass,Good
+536,female,group C,bachelor's degree,reduced,completed,66,83,83,77.3,83.0,9.81,83,66,232,Pass,Good
+537,male,group C,associate's degree,standard,completed,51,60,58,56.3,58.0,4.73,60,51,169,Pass,Average
+538,female,group D,high school,standard,Incomplete,51,66,62,59.7,62.0,7.77,66,51,179,Pass,Average
+539,male,group E,bachelor's degree,standard,completed,85,66,71,74.0,71.0,9.85,85,66,222,Pass,Good
+540,male,group A,associate's degree,standard,completed,97,92,86,91.7,92.0,5.51,97,86,275,Pass,Excellent
+541,male,group C,high school,standard,completed,75,69,68,70.7,69.0,3.79,75,68,212,Pass,Good
+542,male,group D,associate's degree,reduced,completed,79,82,80,80.3,80.0,1.53,82,79,241,Pass,Good
+543,female,group C,associate's degree,standard,Incomplete,81,77,79,79.0,79.0,2.00,81,77,237,Pass,Good
+544,female,group D,associate's degree,standard,Incomplete,82,95,89,88.7,89.0,6.51,95,82,266,Pass,Excellent
+545,female,group D,master's degree,standard,Incomplete,64,63,66,64.3,64.0,1.53,66,63,193,Pass,Average
+546,male,group E,partial high school,reduced,completed,78,83,80,80.3,80.0,2.52,83,78,241,Pass,Good
+547,female,group A,partial high school,standard,completed,92,100,97,96.3,97.0,4.04,100,92,289,Pass,Excellent
+548,male,group C,high school,standard,completed,72,67,64,67.7,67.0,4.04,72,64,203,Pass,Good
+549,female,group C,high school,reduced,Incomplete,62,67,64,64.3,64.0,2.52,67,62,193,Pass,Average
+550,male,group C,master's degree,standard,Incomplete,79,72,69,73.3,72.0,5.13,79,69,220,Pass,Good
+551,male,group C,partial high school,reduced,Incomplete,79,76,65,73.3,76.0,7.37,79,65,220,Pass,Good
+552,male,group B,bachelor's degree,reduced,completed,87,90,88,88.3,88.0,1.53,90,87,265,Pass,Excellent
+553,female,group B,associate's degree,standard,Incomplete,40,48,50,46.0,48.0,5.29,50,40,138,Pass,Average
+554,male,group D,partial college,reduced,Incomplete,77,62,64,67.7,64.0,8.14,77,62,203,Pass,Good
+555,male,group E,associate's degree,standard,Incomplete,53,45,40,46.0,45.0,6.56,53,40,138,Pass,Average
+556,female,group C,partial college,reduced,Incomplete,32,39,33,34.7,33.0,3.79,39,32,104,Fail,Poor
+557,female,group C,associate's degree,standard,completed,55,72,79,68.7,72.0,12.34,79,55,206,Pass,Good
+558,male,group C,master's degree,reduced,Incomplete,61,67,66,64.7,66.0,3.21,67,61,194,Pass,Average
+559,female,group B,associate's degree,reduced,Incomplete,53,70,70,64.3,70.0,9.81,70,53,193,Pass,Average
+560,male,group D,partial high school,standard,Incomplete,73,66,62,67.0,66.0,5.57,73,62,201,Pass,Good
+561,female,group D,partial college,standard,completed,74,75,79,76.0,75.0,2.65,79,74,228,Pass,Good
+562,female,group C,partial college,standard,Incomplete,63,74,74,70.3,74.0,6.35,74,63,211,Pass,Good
+563,male,group C,bachelor's degree,standard,completed,96,90,92,92.7,92.0,3.06,96,90,278,Pass,Excellent
+564,female,group D,partial college,reduced,completed,63,80,80,74.3,80.0,9.81,80,63,223,Pass,Good
+565,male,group B,bachelor's degree,reduced,Incomplete,48,51,46,48.3,48.0,2.52,51,46,145,Pass,Average
+566,male,group B,associate's degree,standard,Incomplete,48,43,45,45.3,45.0,2.52,48,43,136,Pass,Average
+567,female,group E,bachelor's degree,reduced,completed,92,100,100,97.3,100.0,4.62,100,92,292,Pass,Excellent
+568,female,group D,master's degree,reduced,completed,61,71,78,70.0,71.0,8.54,78,61,210,Pass,Good
+569,male,group B,high school,reduced,Incomplete,63,48,47,52.7,48.0,8.96,63,47,158,Pass,Average
+570,male,group D,bachelor's degree,reduced,Incomplete,68,68,67,67.7,68.0,0.58,68,67,203,Pass,Good
+571,male,group B,partial college,standard,completed,71,75,70,72.0,71.0,2.65,75,70,216,Pass,Good
+572,male,group A,bachelor's degree,standard,Incomplete,91,96,92,93.0,92.0,2.65,96,91,279,Pass,Excellent
+573,female,group C,partial college,standard,Incomplete,53,62,56,57.0,56.0,4.58,62,53,171,Pass,Average
+574,female,group C,high school,reduced,completed,50,66,64,60.0,64.0,8.72,66,50,180,Pass,Average
+575,female,group E,high school,standard,Incomplete,74,81,71,75.3,74.0,5.13,81,71,226,Pass,Good
+576,male,group A,associate's degree,reduced,completed,40,55,53,49.3,53.0,8.14,55,40,148,Pass,Average
+577,male,group A,partial college,standard,completed,61,51,52,54.7,52.0,5.51,61,51,164,Pass,Average
+578,female,group B,high school,standard,Incomplete,81,91,89,87.0,89.0,5.29,91,81,261,Pass,Excellent
+579,female,group B,partial college,reduced,completed,48,56,58,54.0,56.0,5.29,58,48,162,Pass,Average
+580,female,group D,master's degree,standard,Incomplete,53,61,68,60.7,61.0,7.51,68,53,182,Pass,Average
+581,female,group D,partial high school,standard,Incomplete,81,97,96,91.3,96.0,8.96,97,81,274,Pass,Excellent
+582,female,group E,partial high school,standard,Incomplete,77,79,80,78.7,79.0,1.53,80,77,236,Pass,Good
+583,female,group D,bachelor's degree,reduced,Incomplete,63,73,78,71.3,73.0,7.64,78,63,214,Pass,Good
+584,female,group D,associate's degree,standard,completed,73,75,80,76.0,75.0,3.61,80,73,228,Pass,Good
+585,female,group D,partial college,standard,Incomplete,69,77,77,74.3,77.0,4.62,77,69,223,Pass,Good
+586,female,group C,associate's degree,standard,Incomplete,65,76,76,72.3,76.0,6.35,76,65,217,Pass,Good
+587,female,group A,high school,standard,Incomplete,55,73,73,67.0,73.0,10.39,73,55,201,Pass,Good
+588,female,group C,bachelor's degree,reduced,Incomplete,44,63,62,56.3,62.0,10.69,63,44,169,Pass,Average
+589,female,group C,partial college,standard,Incomplete,54,64,65,61.0,64.0,6.08,65,54,183,Pass,Average
+590,female,group A,partial high school,standard,Incomplete,48,66,65,59.7,65.0,10.12,66,48,179,Pass,Average
+591,male,group C,partial college,reduced,Incomplete,58,57,54,56.3,57.0,2.08,58,54,169,Pass,Average
+592,male,group A,partial high school,standard,Incomplete,71,62,50,61.0,62.0,10.54,71,50,183,Pass,Average
+593,male,group E,bachelor's degree,standard,Incomplete,68,68,64,66.7,68.0,2.31,68,64,200,Pass,Good
+594,female,group E,high school,standard,Incomplete,74,76,73,74.3,74.0,1.53,76,73,223,Pass,Good
+595,female,group C,bachelor's degree,standard,completed,92,100,99,97.0,99.0,4.36,100,92,291,Pass,Excellent
+596,female,group C,bachelor's degree,standard,completed,56,79,72,69.0,72.0,11.79,79,56,207,Pass,Good
+597,male,group B,high school,reduced,Incomplete,30,24,15,23.0,24.0,7.55,30,15,69,Fail,Poor
+598,male,group A,partial high school,standard,Incomplete,53,54,48,51.7,53.0,3.21,54,48,155,Pass,Average
+599,female,group D,high school,standard,Incomplete,69,77,73,73.0,73.0,4.00,77,69,219,Pass,Good
+600,female,group D,partial high school,standard,Incomplete,65,82,81,76.0,81.0,9.54,82,65,228,Pass,Good
+601,female,group D,master's degree,standard,Incomplete,54,60,63,59.0,60.0,4.58,63,54,177,Pass,Average
+602,female,group C,high school,standard,Incomplete,29,29,30,29.3,29.0,0.58,30,29,88,Fail,Poor
+603,female,group E,partial college,standard,Incomplete,76,78,80,78.0,78.0,2.00,80,76,234,Pass,Good
+604,male,group D,high school,reduced,Incomplete,60,57,51,56.0,57.0,4.58,60,51,168,Pass,Average
+605,male,group D,master's degree,reduced,completed,84,89,90,87.7,89.0,3.21,90,84,263,Pass,Excellent
+606,male,group C,partial high school,standard,Incomplete,75,72,62,69.7,72.0,6.81,75,62,209,Pass,Good
+607,female,group C,associate's degree,standard,Incomplete,85,84,82,83.7,84.0,1.53,85,82,251,Pass,Excellent
+608,female,group C,master's degree,reduced,Incomplete,40,58,54,50.7,54.0,9.45,58,40,152,Pass,Average
+609,female,group E,partial college,standard,Incomplete,61,64,62,62.3,62.0,1.53,64,61,187,Pass,Average
+610,female,group B,associate's degree,standard,Incomplete,58,63,65,62.0,63.0,3.61,65,58,186,Pass,Average
+611,male,group D,partial college,reduced,completed,69,60,63,64.0,63.0,4.58,69,60,192,Pass,Average
+612,female,group C,partial college,standard,Incomplete,58,59,66,61.0,59.0,4.36,66,58,183,Pass,Average
+613,male,group C,bachelor's degree,standard,completed,94,90,91,91.7,91.0,2.08,94,90,275,Pass,Excellent
+614,female,group C,associate's degree,standard,Incomplete,65,77,74,72.0,74.0,6.24,77,65,216,Pass,Good
+615,female,group A,associate's degree,standard,Incomplete,82,93,93,89.3,93.0,6.35,93,82,268,Pass,Excellent
+616,female,group C,high school,standard,Incomplete,60,68,72,66.7,68.0,6.11,72,60,200,Pass,Good
+617,female,group E,bachelor's degree,standard,Incomplete,37,45,38,40.0,38.0,4.36,45,37,120,Fail,Poor
+618,male,group D,bachelor's degree,standard,Incomplete,88,78,83,83.0,83.0,5.00,88,78,249,Pass,Good
+619,male,group D,master's degree,standard,Incomplete,95,81,84,86.7,84.0,7.37,95,81,260,Pass,Excellent
+620,male,group C,associate's degree,reduced,completed,65,73,68,68.7,68.0,4.04,73,65,206,Pass,Good
+621,female,group C,high school,reduced,Incomplete,35,61,54,50.0,54.0,13.45,61,35,150,Fail,Average
+622,male,group B,bachelor's degree,reduced,Incomplete,62,63,56,60.3,62.0,3.79,63,56,181,Pass,Average
+623,male,group C,high school,reduced,completed,58,51,52,53.7,52.0,3.79,58,51,161,Pass,Average
+624,male,group A,partial college,standard,completed,100,96,86,94.0,96.0,7.21,100,86,282,Pass,Excellent
+625,female,group E,bachelor's degree,reduced,Incomplete,61,58,62,60.3,61.0,2.08,62,58,181,Pass,Average
+626,male,group D,partial college,standard,completed,100,97,99,98.7,99.0,1.53,100,97,296,Pass,Excellent
+627,male,group B,associate's degree,reduced,completed,69,70,63,67.3,69.0,3.79,70,63,202,Pass,Good
+628,male,group D,associate's degree,standard,Incomplete,61,48,46,51.7,48.0,8.14,61,46,155,Pass,Average
+629,male,group D,partial college,reduced,Incomplete,49,57,46,50.7,49.0,5.69,57,46,152,Pass,Average
+630,female,group C,partial high school,standard,completed,44,51,55,50.0,51.0,5.57,55,44,150,Pass,Average
+631,male,group D,partial college,standard,Incomplete,67,64,70,67.0,67.0,3.00,70,64,201,Pass,Good
+632,male,group B,high school,standard,Incomplete,79,60,65,68.0,65.0,9.85,79,60,204,Pass,Good
+633,female,group B,bachelor's degree,standard,completed,66,74,81,73.7,74.0,7.51,81,66,221,Pass,Good
+634,female,group C,high school,standard,Incomplete,75,88,85,82.7,85.0,6.81,88,75,248,Pass,Good
+635,male,group D,partial high school,standard,Incomplete,84,84,80,82.7,84.0,2.31,84,80,248,Pass,Good
+636,male,group A,high school,standard,Incomplete,71,74,64,69.7,71.0,5.13,74,64,209,Pass,Good
+637,female,group B,high school,reduced,completed,67,80,81,76.0,80.0,7.81,81,67,228,Pass,Good
+638,female,group D,partial high school,standard,completed,80,92,88,86.7,88.0,6.11,92,80,260,Pass,Excellent
+639,male,group E,partial college,standard,Incomplete,86,76,74,78.7,76.0,6.43,86,74,236,Pass,Good
+640,female,group D,associate's degree,standard,Incomplete,76,74,73,74.3,74.0,1.53,76,73,223,Pass,Good
+641,male,group D,high school,standard,Incomplete,41,52,51,48.0,51.0,6.08,52,41,144,Pass,Average
+642,female,group D,associate's degree,reduced,completed,74,88,90,84.0,88.0,8.72,90,74,252,Pass,Excellent
+643,female,group B,partial high school,reduced,Incomplete,72,81,79,77.3,79.0,4.73,81,72,232,Pass,Good
+644,female,group E,high school,standard,completed,74,79,80,77.7,79.0,3.21,80,74,233,Pass,Good
+645,male,group B,high school,standard,Incomplete,70,65,60,65.0,65.0,5.00,70,60,195,Pass,Average
+646,female,group B,bachelor's degree,standard,completed,65,81,81,75.7,81.0,9.24,81,65,227,Pass,Good
+647,female,group D,associate's degree,standard,Incomplete,59,70,65,64.7,65.0,5.51,70,59,194,Pass,Average
+648,female,group E,high school,reduced,Incomplete,64,62,68,64.7,64.0,3.06,68,62,194,Pass,Average
+649,female,group B,high school,standard,Incomplete,50,53,55,52.7,53.0,2.52,55,50,158,Pass,Average
+650,female,group D,partial college,standard,completed,69,79,81,76.3,79.0,6.43,81,69,229,Pass,Good
+651,male,group C,partial high school,reduced,completed,51,56,53,53.3,53.0,2.52,56,51,160,Pass,Average
+652,female,group A,high school,standard,completed,68,80,76,74.7,76.0,6.11,80,68,224,Pass,Good
+653,female,group D,partial college,standard,completed,85,86,98,89.7,86.0,7.23,98,85,269,Pass,Excellent
+654,female,group A,associate's degree,standard,completed,65,70,74,69.7,70.0,4.51,74,65,209,Pass,Good
+655,female,group B,partial high school,standard,Incomplete,73,79,79,77.0,79.0,3.46,79,73,231,Pass,Good
+656,female,group B,partial college,standard,Incomplete,62,67,67,65.3,67.0,2.89,67,62,196,Pass,Average
+657,male,group C,associate's degree,reduced,Incomplete,77,67,64,69.3,67.0,6.81,77,64,208,Pass,Good
+658,male,group D,partial high school,standard,Incomplete,69,66,61,65.3,66.0,4.04,69,61,196,Pass,Average
+659,female,group D,associate's degree,reduced,Incomplete,43,60,58,53.7,58.0,9.29,60,43,161,Pass,Average
+660,male,group D,associate's degree,standard,Incomplete,90,87,85,87.3,87.0,2.52,90,85,262,Pass,Excellent
+661,male,group C,partial college,reduced,Incomplete,74,77,73,74.7,74.0,2.08,77,73,224,Pass,Good
+662,male,group C,partial high school,standard,Incomplete,73,66,63,67.3,66.0,5.13,73,63,202,Pass,Good
+663,female,group D,partial college,reduced,Incomplete,55,71,69,65.0,69.0,8.72,71,55,195,Pass,Average
+664,female,group C,high school,standard,Incomplete,65,69,67,67.0,67.0,2.00,69,65,201,Pass,Good
+665,male,group D,associate's degree,standard,Incomplete,80,63,63,68.7,63.0,9.81,80,63,206,Pass,Good
+666,female,group C,partial high school,reduced,completed,50,60,60,56.7,60.0,5.77,60,50,170,Pass,Average
+667,female,group C,partial college,reduced,completed,63,73,71,69.0,71.0,5.29,73,63,207,Pass,Good
+668,female,group B,bachelor's degree,reduced,Incomplete,77,85,87,83.0,85.0,5.29,87,77,249,Pass,Good
+669,male,group C,partial college,standard,Incomplete,73,74,61,69.3,73.0,7.23,74,61,208,Pass,Good
+670,male,group D,associate's degree,standard,completed,81,72,77,76.7,77.0,4.51,81,72,230,Pass,Good
+671,female,group C,high school,reduced,Incomplete,66,76,68,70.0,68.0,5.29,76,66,210,Pass,Good
+672,male,group D,associate's degree,reduced,Incomplete,52,57,50,53.0,52.0,3.61,57,50,159,Pass,Average
+673,female,group C,partial college,standard,Incomplete,69,78,76,74.3,76.0,4.73,78,69,223,Pass,Good
+674,female,group C,associate's degree,standard,completed,65,84,84,77.7,84.0,10.97,84,65,233,Pass,Good
+675,female,group D,high school,standard,completed,69,77,78,74.7,77.0,4.93,78,69,224,Pass,Good
+676,female,group B,partial college,standard,completed,50,64,66,60.0,64.0,8.72,66,50,180,Pass,Average
+677,female,group E,partial college,standard,completed,73,78,76,75.7,76.0,2.52,78,73,227,Pass,Good
+678,female,group C,partial high school,standard,completed,70,82,76,76.0,76.0,6.00,82,70,228,Pass,Good
+679,male,group D,associate's degree,reduced,Incomplete,81,75,78,78.0,78.0,3.00,81,75,234,Pass,Good
+680,male,group D,partial college,reduced,Incomplete,63,61,60,61.3,61.0,1.53,63,60,184,Pass,Average
+681,female,group D,high school,standard,Incomplete,67,72,74,71.0,72.0,3.61,74,67,213,Pass,Good
+682,male,group B,high school,standard,Incomplete,60,68,60,62.7,60.0,4.62,68,60,188,Pass,Average
+683,male,group B,high school,standard,Incomplete,62,55,54,57.0,55.0,4.36,62,54,171,Pass,Average
+684,female,group C,partial high school,reduced,completed,29,40,44,37.7,40.0,7.77,44,29,113,Fail,Poor
+685,male,group B,partial college,standard,completed,62,66,68,65.3,66.0,3.06,68,62,196,Pass,Average
+686,female,group E,master's degree,standard,completed,94,99,100,97.7,99.0,3.21,100,94,293,Pass,Excellent
+687,male,group E,partial college,standard,completed,85,75,68,76.0,75.0,8.54,85,68,228,Pass,Good
+688,male,group D,associate's degree,reduced,Incomplete,77,78,73,76.0,77.0,2.65,78,73,228,Pass,Good
+689,male,group A,high school,reduced,Incomplete,53,58,44,51.7,53.0,7.09,58,44,155,Pass,Average
+690,male,group E,partial college,reduced,Incomplete,93,90,83,88.7,90.0,5.13,93,83,266,Pass,Excellent
+691,female,group C,associate's degree,standard,Incomplete,49,53,53,51.7,53.0,2.31,53,49,155,Pass,Average
+692,female,group E,associate's degree,reduced,Incomplete,73,76,78,75.7,76.0,2.52,78,73,227,Pass,Good
+693,female,group C,bachelor's degree,reduced,completed,66,74,81,73.7,74.0,7.51,81,66,221,Pass,Good
+694,female,group D,associate's degree,standard,Incomplete,77,77,73,75.7,77.0,2.31,77,73,227,Pass,Good
+695,female,group C,partial high school,standard,Incomplete,49,63,56,56.0,56.0,7.00,63,49,168,Pass,Average
+696,female,group D,partial college,reduced,Incomplete,79,89,86,84.7,86.0,5.13,89,79,254,Pass,Excellent
+697,female,group C,associate's degree,standard,completed,75,82,90,82.3,82.0,7.51,90,75,247,Pass,Good
+698,female,group A,bachelor's degree,standard,Incomplete,59,72,70,67.0,70.0,7.00,72,59,201,Pass,Good
+699,female,group D,associate's degree,standard,completed,57,78,79,71.3,78.0,12.42,79,57,214,Pass,Good
+700,male,group C,high school,reduced,Incomplete,66,66,59,63.7,66.0,4.04,66,59,191,Pass,Average
+701,female,group E,bachelor's degree,standard,completed,79,81,82,80.7,81.0,1.53,82,79,242,Pass,Good
+702,female,group B,partial high school,standard,Incomplete,57,67,72,65.3,67.0,7.64,72,57,196,Pass,Average
+703,male,group A,bachelor's degree,standard,completed,87,84,87,86.0,87.0,1.73,87,84,258,Pass,Excellent
+704,female,group D,partial college,standard,Incomplete,63,64,67,64.7,64.0,2.08,67,63,194,Pass,Average
+705,female,group B,partial high school,reduced,completed,59,63,64,62.0,63.0,2.65,64,59,186,Pass,Average
+706,male,group A,bachelor's degree,reduced,Incomplete,62,72,65,66.3,65.0,5.13,72,62,199,Pass,Average
+707,male,group D,high school,standard,Incomplete,46,34,36,38.7,36.0,6.43,46,34,116,Fail,Poor
+708,male,group C,partial college,standard,Incomplete,66,59,52,59.0,59.0,7.00,66,52,177,Pass,Average
+709,male,group D,high school,standard,Incomplete,89,87,79,85.0,87.0,5.29,89,79,255,Pass,Excellent
+710,female,group D,associate's degree,reduced,completed,42,61,58,53.7,58.0,10.21,61,42,161,Pass,Average
+711,male,group C,partial college,standard,completed,93,84,90,89.0,90.0,4.58,93,84,267,Pass,Excellent
+712,female,group E,partial high school,standard,completed,80,85,85,83.3,85.0,2.89,85,80,250,Pass,Excellent
+713,female,group D,partial college,standard,Incomplete,98,100,99,99.0,99.0,1.00,100,98,297,Pass,Excellent
+714,male,group D,master's degree,standard,Incomplete,81,81,84,82.0,81.0,1.73,84,81,246,Pass,Good
+715,female,group B,partial high school,standard,completed,60,70,74,68.0,70.0,7.21,74,60,204,Pass,Good
+716,female,group B,associate's degree,reduced,completed,76,94,87,85.7,87.0,9.07,94,76,257,Pass,Excellent
+717,male,group C,associate's degree,standard,completed,73,78,72,74.3,73.0,3.21,78,72,223,Pass,Good
+718,female,group C,associate's degree,standard,completed,96,96,99,97.0,96.0,1.73,99,96,291,Pass,Excellent
+719,female,group C,high school,standard,Incomplete,76,76,74,75.3,76.0,1.15,76,74,226,Pass,Good
+720,male,group E,associate's degree,reduced,completed,91,73,80,81.3,80.0,9.07,91,73,244,Pass,Good
+721,female,group C,partial college,reduced,Incomplete,62,72,70,68.0,70.0,5.29,72,62,204,Pass,Good
+722,male,group D,partial high school,reduced,completed,55,59,59,57.7,59.0,2.31,59,55,173,Pass,Average
+723,female,group B,partial high school,reduced,completed,74,90,88,84.0,88.0,8.72,90,74,252,Pass,Excellent
+724,male,group C,high school,standard,Incomplete,50,48,42,46.7,48.0,4.16,50,42,140,Pass,Average
+725,male,group B,partial college,standard,Incomplete,47,43,41,43.7,43.0,3.06,47,41,131,Pass,Average
+726,male,group E,partial college,standard,completed,81,74,71,75.3,74.0,5.13,81,71,226,Pass,Good
+727,female,group E,associate's degree,standard,completed,65,75,77,72.3,75.0,6.43,77,65,217,Pass,Good
+728,male,group E,partial high school,standard,completed,68,51,57,58.7,57.0,8.62,68,51,176,Pass,Average
+729,female,group D,high school,reduced,Incomplete,73,92,84,83.0,84.0,9.54,92,73,249,Pass,Good
+730,male,group C,partial college,standard,Incomplete,53,39,37,43.0,39.0,8.72,53,37,129,Fail,Average
+731,female,group B,associate's degree,reduced,completed,68,77,80,75.0,77.0,6.24,80,68,225,Pass,Good
+732,male,group A,partial high school,reduced,Incomplete,55,46,43,48.0,46.0,6.24,55,43,144,Pass,Average
+733,female,group C,partial college,standard,completed,87,89,94,90.0,89.0,3.61,94,87,270,Pass,Excellent
+734,male,group D,partial high school,standard,Incomplete,55,47,44,48.7,47.0,5.69,55,44,146,Pass,Average
+735,female,group E,partial college,reduced,Incomplete,53,58,57,56.0,57.0,2.65,58,53,168,Pass,Average
+736,male,group C,master's degree,standard,Incomplete,67,57,59,61.0,59.0,5.29,67,57,183,Pass,Average
+737,male,group C,associate's degree,standard,Incomplete,92,79,84,85.0,84.0,6.56,92,79,255,Pass,Excellent
+738,female,group B,partial college,reduced,completed,53,66,73,64.0,66.0,10.15,73,53,192,Pass,Average
+739,male,group D,associate's degree,standard,Incomplete,81,71,73,75.0,73.0,5.29,81,71,225,Pass,Good
+740,male,group C,high school,reduced,Incomplete,61,60,55,58.7,60.0,3.21,61,55,176,Pass,Average
+741,male,group D,bachelor's degree,standard,Incomplete,80,73,72,75.0,73.0,4.36,80,72,225,Pass,Good
+742,female,group A,associate's degree,reduced,Incomplete,37,57,56,50.0,56.0,11.27,57,37,150,Fail,Average
+743,female,group C,high school,standard,Incomplete,81,84,82,82.3,82.0,1.53,84,81,247,Pass,Good
+744,female,group C,associate's degree,standard,completed,59,73,72,68.0,72.0,7.81,73,59,204,Pass,Good
+745,male,group B,partial college,reduced,Incomplete,55,55,47,52.3,55.0,4.62,55,47,157,Pass,Average
+746,male,group D,associate's degree,standard,Incomplete,72,79,74,75.0,74.0,3.61,79,72,225,Pass,Good
+747,male,group D,high school,standard,Incomplete,69,75,71,71.7,71.0,3.06,75,69,215,Pass,Good
+748,male,group C,partial college,standard,Incomplete,69,64,68,67.0,68.0,2.65,69,64,201,Pass,Good
+749,female,group C,bachelor's degree,reduced,Incomplete,50,60,59,56.3,59.0,5.51,60,50,169,Pass,Average
+750,male,group B,partial college,standard,completed,87,84,86,85.7,86.0,1.53,87,84,257,Pass,Excellent
+751,male,group D,partial high school,standard,completed,71,69,68,69.3,69.0,1.53,71,68,208,Pass,Good
+752,male,group E,partial college,standard,Incomplete,68,72,65,68.3,68.0,3.51,72,65,205,Pass,Good
+753,male,group C,master's degree,reduced,completed,79,77,75,77.0,77.0,2.00,79,75,231,Pass,Good
+754,female,group C,partial high school,standard,completed,77,90,85,84.0,85.0,6.56,90,77,252,Pass,Excellent
+755,male,group C,associate's degree,reduced,Incomplete,58,55,53,55.3,55.0,2.52,58,53,166,Pass,Average
+756,female,group E,associate's degree,standard,Incomplete,84,95,92,90.3,92.0,5.69,95,84,271,Pass,Excellent
+757,male,group D,partial college,standard,Incomplete,55,58,52,55.0,55.0,3.00,58,52,165,Pass,Average
+758,male,group E,bachelor's degree,reduced,completed,70,68,72,70.0,70.0,2.00,72,68,210,Pass,Good
+759,female,group D,partial college,reduced,completed,52,59,65,58.7,59.0,6.51,65,52,176,Pass,Average
+760,male,group B,partial college,standard,completed,69,77,77,74.3,77.0,4.62,77,69,223,Pass,Good
+761,female,group C,high school,reduced,Incomplete,53,72,64,63.0,64.0,9.54,72,53,189,Pass,Average
+762,female,group D,partial high school,standard,Incomplete,48,58,54,53.3,54.0,5.03,58,48,160,Pass,Average
+763,male,group D,partial high school,standard,completed,78,81,86,81.7,81.0,4.04,86,78,245,Pass,Good
+764,female,group B,high school,standard,Incomplete,62,62,63,62.3,62.0,0.58,63,62,187,Pass,Average
+765,male,group D,partial college,standard,Incomplete,60,63,59,60.7,60.0,2.08,63,59,182,Pass,Average
+766,female,group B,high school,standard,Incomplete,74,72,72,72.7,72.0,1.15,74,72,218,Pass,Good
+767,female,group C,high school,standard,completed,58,75,77,70.0,75.0,10.44,77,58,210,Pass,Good
+768,male,group B,high school,standard,completed,76,62,60,66.0,62.0,8.72,76,60,198,Pass,Average
+769,female,group D,partial high school,standard,Incomplete,68,71,75,71.3,71.0,3.51,75,68,214,Pass,Good
+770,male,group A,partial college,reduced,Incomplete,58,60,57,58.3,58.0,1.53,60,57,175,Pass,Average
+771,male,group B,high school,standard,Incomplete,52,48,49,49.7,49.0,2.08,52,48,149,Pass,Average
+772,male,group D,bachelor's degree,standard,Incomplete,75,73,74,74.0,74.0,1.00,75,73,222,Pass,Good
+773,female,group B,partial high school,reduced,completed,52,67,72,63.7,67.0,10.41,72,52,191,Pass,Average
+774,female,group C,bachelor's degree,reduced,Incomplete,62,78,79,73.0,78.0,9.54,79,62,219,Pass,Good
+775,male,group B,partial college,standard,Incomplete,66,65,60,63.7,65.0,3.21,66,60,191,Pass,Average
+776,female,group B,partial high school,reduced,Incomplete,49,58,55,54.0,55.0,4.58,58,49,162,Pass,Average
+777,female,group B,high school,standard,Incomplete,66,72,70,69.3,70.0,3.06,72,66,208,Pass,Good
+778,female,group C,partial college,reduced,Incomplete,35,44,43,40.7,43.0,4.93,44,35,122,Fail,Poor
+779,female,group A,partial college,standard,completed,72,79,82,77.7,79.0,5.13,82,72,233,Pass,Good
+780,male,group E,associate's degree,standard,completed,94,85,82,87.0,85.0,6.24,94,82,261,Pass,Excellent
+781,female,group D,associate's degree,reduced,Incomplete,46,56,57,53.0,56.0,6.08,57,46,159,Pass,Average
+782,female,group B,master's degree,standard,Incomplete,77,90,84,83.7,84.0,6.51,90,77,251,Pass,Excellent
+783,female,group B,high school,reduced,completed,76,85,82,81.0,82.0,4.58,85,76,243,Pass,Good
+784,female,group C,associate's degree,standard,completed,52,59,62,57.7,59.0,5.13,62,52,173,Pass,Average
+785,male,group C,bachelor's degree,standard,completed,91,81,79,83.7,81.0,6.43,91,79,251,Pass,Excellent
+786,female,group B,partial high school,standard,completed,32,51,44,42.3,44.0,9.61,51,32,127,Fail,Average
+787,female,group E,partial high school,reduced,Incomplete,72,79,77,76.0,77.0,3.61,79,72,228,Pass,Good
+788,female,group B,partial college,standard,Incomplete,19,38,32,29.7,32.0,9.71,38,19,89,Fail,Poor
+789,male,group C,associate's degree,reduced,Incomplete,68,65,61,64.7,65.0,3.51,68,61,194,Pass,Average
+790,female,group C,master's degree,reduced,Incomplete,52,65,61,59.3,61.0,6.66,65,52,178,Pass,Average
+791,female,group B,high school,standard,Incomplete,48,62,60,56.7,60.0,7.57,62,48,170,Pass,Average
+792,female,group D,partial college,reduced,Incomplete,60,66,70,65.3,66.0,5.03,70,60,196,Pass,Average
+793,male,group D,high school,reduced,Incomplete,66,74,69,69.7,69.0,4.04,74,66,209,Pass,Good
+794,male,group E,partial high school,standard,completed,89,84,77,83.3,84.0,6.03,89,77,250,Pass,Excellent
+795,female,group B,high school,standard,Incomplete,42,52,51,48.3,51.0,5.51,52,42,145,Pass,Average
+796,female,group E,associate's degree,reduced,completed,57,68,73,66.0,68.0,8.19,73,57,198,Pass,Average
+797,male,group D,high school,standard,Incomplete,70,70,70,70.0,70.0,0.00,70,70,210,Pass,Good
+798,female,group E,associate's degree,reduced,Incomplete,70,84,81,78.3,81.0,7.37,84,70,235,Pass,Good
+799,male,group E,partial college,standard,Incomplete,69,60,54,61.0,60.0,7.55,69,54,183,Pass,Average
+800,female,group C,associate's degree,standard,Incomplete,52,55,57,54.7,55.0,2.52,57,52,164,Pass,Average
+801,male,group C,partial high school,standard,completed,67,73,68,69.3,68.0,3.21,73,67,208,Pass,Good
+802,male,group C,partial high school,standard,completed,76,80,73,76.3,76.0,3.51,80,73,229,Pass,Good
+803,female,group E,associate's degree,standard,Incomplete,87,94,95,92.0,94.0,4.36,95,87,276,Pass,Excellent
+804,female,group B,partial college,standard,Incomplete,82,85,87,84.7,85.0,2.52,87,82,254,Pass,Excellent
+805,female,group C,partial college,standard,Incomplete,73,76,78,75.7,76.0,2.52,78,73,227,Pass,Good
+806,male,group A,partial college,reduced,Incomplete,75,81,74,76.7,75.0,3.79,81,74,230,Pass,Good
+807,female,group D,partial college,reduced,Incomplete,64,74,75,71.0,74.0,6.08,75,64,213,Pass,Good
+808,female,group E,high school,reduced,Incomplete,41,45,40,42.0,41.0,2.65,45,40,126,Pass,Average
+809,male,group C,high school,standard,Incomplete,90,75,69,78.0,75.0,10.82,90,69,234,Pass,Good
+810,male,group B,bachelor's degree,standard,Incomplete,59,54,51,54.7,54.0,4.04,59,51,164,Pass,Average
+811,male,group A,partial high school,standard,Incomplete,51,31,36,39.3,36.0,10.41,51,31,118,Fail,Poor
+812,male,group A,high school,reduced,Incomplete,45,47,49,47.0,47.0,2.00,49,45,141,Pass,Average
+813,female,group C,master's degree,standard,completed,54,64,67,61.7,64.0,6.81,67,54,185,Pass,Average
+814,male,group E,partial high school,standard,completed,87,84,76,82.3,84.0,5.69,87,76,247,Pass,Good
+815,female,group C,high school,standard,Incomplete,72,80,83,78.3,80.0,5.69,83,72,235,Pass,Good
+816,male,group B,partial high school,standard,completed,94,86,87,89.0,87.0,4.36,94,86,267,Pass,Excellent
+817,female,group A,bachelor's degree,standard,Incomplete,45,59,64,56.0,59.0,9.85,64,45,168,Pass,Average
+818,male,group D,bachelor's degree,reduced,completed,61,70,76,69.0,70.0,7.55,76,61,207,Pass,Good
+819,female,group B,high school,reduced,Incomplete,60,72,68,66.7,68.0,6.11,72,60,200,Pass,Good
+820,female,group C,partial high school,standard,Incomplete,77,91,88,85.3,88.0,7.37,91,77,256,Pass,Excellent
+821,female,group A,partial high school,standard,completed,85,90,92,89.0,90.0,3.61,92,85,267,Pass,Excellent
+822,female,group D,bachelor's degree,reduced,Incomplete,78,90,93,87.0,90.0,7.94,93,78,261,Pass,Excellent
+823,male,group E,partial college,reduced,completed,49,52,51,50.7,51.0,1.53,52,49,152,Pass,Average
+824,female,group B,high school,reduced,Incomplete,71,87,82,80.0,82.0,8.19,87,71,240,Pass,Good
+825,female,group C,partial high school,reduced,Incomplete,48,58,52,52.7,52.0,5.03,58,48,158,Pass,Average
+826,male,group C,high school,standard,Incomplete,62,67,58,62.3,62.0,4.51,67,58,187,Pass,Average
+827,female,group C,associate's degree,reduced,completed,56,68,70,64.7,68.0,7.57,70,56,194,Pass,Average
+828,female,group C,partial high school,standard,Incomplete,65,69,76,70.0,69.0,5.57,76,65,210,Pass,Good
+829,female,group D,partial high school,reduced,completed,69,86,81,78.7,81.0,8.74,86,69,236,Pass,Good
+830,male,group B,partial high school,standard,Incomplete,68,54,53,58.3,54.0,8.39,68,53,175,Pass,Average
+831,female,group A,partial college,reduced,Incomplete,61,60,57,59.3,60.0,2.08,61,57,178,Pass,Average
+832,female,group C,bachelor's degree,reduced,completed,74,86,89,83.0,86.0,7.94,89,74,249,Pass,Good
+833,male,group A,bachelor's degree,standard,Incomplete,64,60,58,60.7,60.0,3.06,64,58,182,Pass,Average
+834,female,group B,high school,standard,completed,77,82,89,82.7,82.0,6.03,89,77,248,Pass,Good
+835,male,group B,partial college,standard,Incomplete,58,50,45,51.0,50.0,6.56,58,45,153,Pass,Average
+836,female,group C,high school,standard,completed,60,64,74,66.0,64.0,7.21,74,60,198,Pass,Average
+837,male,group E,high school,standard,Incomplete,73,64,57,64.7,64.0,8.02,73,57,194,Pass,Average
+838,female,group A,high school,standard,completed,75,82,79,78.7,79.0,3.51,82,75,236,Pass,Good
+839,male,group B,associate's degree,reduced,completed,58,57,53,56.0,57.0,2.65,58,53,168,Pass,Average
+840,female,group C,associate's degree,standard,Incomplete,66,77,73,72.0,73.0,5.57,77,66,216,Pass,Good
+841,female,group D,high school,reduced,Incomplete,39,52,46,45.7,46.0,6.51,52,39,137,Fail,Average
+842,male,group C,partial high school,standard,Incomplete,64,58,51,57.7,58.0,6.51,64,51,173,Pass,Average
+843,female,group B,high school,reduced,completed,23,44,36,34.3,36.0,10.60,44,23,103,Fail,Poor
+844,male,group B,partial college,reduced,completed,74,77,76,75.7,76.0,1.53,77,74,227,Pass,Good
+845,female,group D,partial high school,reduced,completed,40,65,64,56.3,64.0,14.15,65,40,169,Pass,Average
+846,male,group E,master's degree,standard,Incomplete,90,85,84,86.3,85.0,3.21,90,84,259,Pass,Excellent
+847,male,group C,master's degree,standard,completed,91,85,85,87.0,85.0,3.46,91,85,261,Pass,Excellent
+848,male,group D,high school,standard,Incomplete,64,54,50,56.0,54.0,7.21,64,50,168,Pass,Average
+849,female,group C,high school,standard,Incomplete,59,72,68,66.3,68.0,6.66,72,59,199,Pass,Average
+850,male,group D,associate's degree,standard,Incomplete,80,75,69,74.7,75.0,5.51,80,69,224,Pass,Good
+851,male,group C,master's degree,standard,Incomplete,71,67,67,68.3,67.0,2.31,71,67,205,Pass,Good
+852,female,group A,high school,standard,Incomplete,61,68,63,64.0,63.0,3.61,68,61,192,Pass,Average
+853,female,group E,partial college,standard,Incomplete,87,85,93,88.3,87.0,4.16,93,85,265,Pass,Excellent
+854,male,group E,partial high school,standard,Incomplete,82,67,61,70.0,67.0,10.82,82,61,210,Pass,Good
+855,male,group C,partial high school,standard,Incomplete,62,64,55,60.3,62.0,4.73,64,55,181,Pass,Average
+856,female,group B,bachelor's degree,standard,Incomplete,97,97,96,96.7,97.0,0.58,97,96,290,Pass,Excellent
+857,male,group B,partial college,reduced,Incomplete,75,68,65,69.3,68.0,5.13,75,65,208,Pass,Good
+858,female,group C,bachelor's degree,standard,Incomplete,65,79,81,75.0,79.0,8.72,81,65,225,Pass,Good
+859,male,group B,high school,standard,completed,52,49,46,49.0,49.0,3.00,52,46,147,Pass,Average
+860,male,group C,associate's degree,reduced,Incomplete,87,73,72,77.3,73.0,8.39,87,72,232,Pass,Good
+861,female,group C,associate's degree,standard,Incomplete,53,62,53,56.0,53.0,5.20,62,53,168,Pass,Average
+862,female,group E,master's degree,reduced,Incomplete,81,86,87,84.7,86.0,3.21,87,81,254,Pass,Excellent
+863,male,group D,bachelor's degree,reduced,completed,39,42,38,39.7,39.0,2.08,42,38,119,Fail,Poor
+864,female,group C,partial college,standard,completed,71,71,80,74.0,71.0,5.20,80,71,222,Pass,Good
+865,male,group C,associate's degree,standard,Incomplete,97,93,91,93.7,93.0,3.06,97,91,281,Pass,Excellent
+866,male,group D,partial college,standard,completed,82,82,88,84.0,82.0,3.46,88,82,252,Pass,Excellent
+867,male,group C,high school,reduced,Incomplete,59,53,52,54.7,53.0,3.79,59,52,164,Pass,Average
+868,male,group B,associate's degree,standard,Incomplete,61,42,41,48.0,42.0,11.27,61,41,144,Pass,Average
+869,male,group E,associate's degree,reduced,completed,78,74,72,74.7,74.0,3.06,78,72,224,Pass,Good
+870,male,group C,associate's degree,reduced,Incomplete,49,51,51,50.3,51.0,1.15,51,49,151,Pass,Average
+871,male,group B,high school,standard,Incomplete,59,58,47,54.7,58.0,6.66,59,47,164,Pass,Average
+872,female,group C,partial college,standard,completed,70,72,76,72.7,72.0,3.06,76,70,218,Pass,Good
+873,male,group B,associate's degree,standard,completed,82,84,78,81.3,82.0,3.06,84,78,244,Pass,Good
+874,male,group E,associate's degree,reduced,Incomplete,90,90,82,87.3,90.0,4.62,90,82,262,Pass,Excellent
+875,female,group C,bachelor's degree,reduced,Incomplete,43,62,61,55.3,61.0,10.69,62,43,166,Pass,Average
+876,male,group C,partial college,reduced,Incomplete,80,64,66,70.0,66.0,8.72,80,64,210,Pass,Good
+877,male,group D,partial college,standard,Incomplete,81,82,84,82.3,82.0,1.53,84,81,247,Pass,Good
+878,male,group C,partial high school,standard,Incomplete,57,61,54,57.3,57.0,3.51,61,54,172,Pass,Average
+879,female,group D,partial high school,standard,Incomplete,59,72,80,70.3,72.0,10.60,80,59,211,Pass,Good
+880,female,group D,associate's degree,standard,Incomplete,64,76,74,71.3,74.0,6.43,76,64,214,Pass,Good
+881,male,group C,bachelor's degree,standard,completed,63,64,66,64.3,64.0,1.53,66,63,193,Pass,Average
+882,female,group E,bachelor's degree,standard,completed,71,70,70,70.3,70.0,0.58,71,70,211,Pass,Good
+883,female,group B,high school,reduced,Incomplete,64,73,71,69.3,71.0,4.73,73,64,208,Pass,Good
+884,male,group D,bachelor's degree,reduced,Incomplete,55,46,44,48.3,46.0,5.86,55,44,145,Pass,Average
+885,female,group E,associate's degree,standard,Incomplete,51,51,54,52.0,51.0,1.73,54,51,156,Pass,Average
+886,female,group C,associate's degree,standard,completed,62,76,80,72.7,76.0,9.45,80,62,218,Pass,Good
+887,female,group E,associate's degree,standard,completed,93,100,95,96.0,95.0,3.61,100,93,288,Pass,Excellent
+888,male,group C,high school,reduced,Incomplete,54,72,59,61.7,59.0,9.29,72,54,185,Pass,Average
+889,female,group D,partial college,reduced,Incomplete,69,65,74,69.3,69.0,4.51,74,65,208,Pass,Good
+890,male,group D,high school,reduced,Incomplete,44,51,48,47.7,48.0,3.51,51,44,143,Pass,Average
+891,female,group E,partial college,standard,completed,86,85,91,87.3,86.0,3.21,91,85,262,Pass,Excellent
+892,female,group E,associate's degree,standard,Incomplete,85,92,85,87.3,85.0,4.04,92,85,262,Pass,Excellent
+893,female,group A,master's degree,reduced,Incomplete,50,67,73,63.3,67.0,11.93,73,50,190,Pass,Average
+894,male,group D,partial high school,standard,completed,88,74,75,79.0,75.0,7.81,88,74,237,Pass,Good
+895,female,group E,associate's degree,standard,Incomplete,59,62,69,63.3,62.0,5.13,69,59,190,Pass,Average
+896,female,group E,partial high school,reduced,Incomplete,32,34,38,34.7,34.0,3.06,38,32,104,Fail,Poor
+897,male,group B,high school,reduced,Incomplete,36,29,27,30.7,29.0,4.73,36,27,92,Fail,Poor
+898,female,group B,partial high school,reduced,completed,63,78,79,73.3,78.0,8.96,79,63,220,Pass,Good
+899,male,group D,associate's degree,standard,completed,67,54,63,61.3,63.0,6.66,67,54,184,Pass,Average
+900,female,group D,partial high school,standard,completed,65,78,82,75.0,78.0,8.89,82,65,225,Pass,Good
+901,male,group D,master's degree,standard,Incomplete,85,84,89,86.0,85.0,2.65,89,84,258,Pass,Excellent
+902,female,group C,master's degree,standard,Incomplete,73,78,74,75.0,74.0,2.65,78,73,225,Pass,Good
+903,female,group A,high school,reduced,completed,34,48,41,41.0,41.0,7.00,48,34,123,Fail,Poor
+904,female,group D,bachelor's degree,reduced,completed,93,100,100,97.7,100.0,4.04,100,93,293,Pass,Excellent
+905,female,group D,partial high school,reduced,Incomplete,67,84,84,78.3,84.0,9.81,84,67,235,Pass,Good
+906,male,group D,partial college,standard,Incomplete,88,77,77,80.7,77.0,6.35,88,77,242,Pass,Good
+907,male,group B,high school,standard,Incomplete,57,48,51,52.0,51.0,4.58,57,48,156,Pass,Average
+908,female,group D,partial college,standard,completed,79,84,91,84.7,84.0,6.03,91,79,254,Pass,Excellent
+909,female,group C,bachelor's degree,reduced,Incomplete,67,75,72,71.3,72.0,4.04,75,67,214,Pass,Good
+910,male,group E,bachelor's degree,standard,completed,70,64,70,68.0,70.0,3.46,70,64,204,Pass,Good
+911,male,group D,bachelor's degree,reduced,Incomplete,50,42,48,46.7,48.0,4.16,50,42,140,Pass,Average
+912,female,group A,partial college,standard,Incomplete,69,84,82,78.3,82.0,8.14,84,69,235,Pass,Good
+913,female,group C,bachelor's degree,standard,completed,52,61,66,59.7,61.0,7.09,66,52,179,Pass,Average
+914,female,group C,bachelor's degree,reduced,completed,47,62,66,58.3,62.0,10.02,66,47,175,Pass,Average
+915,female,group B,associate's degree,reduced,Incomplete,46,61,55,54.0,55.0,7.55,61,46,162,Pass,Average
+916,female,group E,partial college,standard,Incomplete,68,70,66,68.0,68.0,2.00,70,66,204,Pass,Good
+917,male,group E,bachelor's degree,standard,completed,100,100,100,100.0,100.0,0.00,100,100,300,Pass,Excellent
+918,female,group C,high school,standard,Incomplete,44,61,52,52.3,52.0,8.50,61,44,157,Pass,Average
+919,female,group C,associate's degree,standard,completed,57,77,80,71.3,77.0,12.50,80,57,214,Pass,Good
+920,male,group B,partial college,standard,completed,91,96,91,92.7,91.0,2.89,96,91,278,Pass,Excellent
+921,male,group D,high school,reduced,Incomplete,69,70,67,68.7,69.0,1.53,70,67,206,Pass,Good
+922,female,group C,high school,reduced,Incomplete,35,53,46,44.7,46.0,9.07,53,35,134,Fail,Average
+923,male,group D,high school,standard,Incomplete,72,66,66,68.0,66.0,3.46,72,66,204,Pass,Good
+924,female,group B,associate's degree,reduced,Incomplete,54,65,65,61.3,65.0,6.35,65,54,184,Pass,Average
+925,male,group D,high school,reduced,Incomplete,74,70,69,71.0,70.0,2.65,74,69,213,Pass,Good
+926,male,group E,partial high school,standard,completed,74,64,60,66.0,64.0,7.21,74,60,198,Pass,Average
+927,male,group E,associate's degree,reduced,Incomplete,64,56,52,57.3,56.0,6.11,64,52,172,Pass,Average
+928,female,group D,high school,reduced,completed,65,61,71,65.7,65.0,5.03,71,61,197,Pass,Average
+929,male,group E,associate's degree,reduced,completed,46,43,44,44.3,44.0,1.53,46,43,133,Pass,Average
+930,female,group C,partial high school,reduced,Incomplete,48,56,51,51.7,51.0,4.04,56,48,155,Pass,Average
+931,male,group C,partial college,reduced,completed,67,74,70,70.3,70.0,3.51,74,67,211,Pass,Good
+932,male,group D,partial college,reduced,Incomplete,62,57,62,60.3,62.0,2.89,62,57,181,Pass,Average
+933,male,group D,associate's degree,reduced,completed,61,71,73,68.3,71.0,6.43,73,61,205,Pass,Good
+934,male,group C,bachelor's degree,reduced,completed,70,75,74,73.0,74.0,2.65,75,70,219,Pass,Good
+935,male,group C,associate's degree,standard,completed,98,87,90,91.7,90.0,5.69,98,87,275,Pass,Excellent
+936,male,group D,partial college,reduced,Incomplete,70,63,58,63.7,63.0,6.03,70,58,191,Pass,Average
+937,male,group A,associate's degree,standard,Incomplete,67,57,53,59.0,57.0,7.21,67,53,177,Pass,Average
+938,female,group E,high school,reduced,Incomplete,57,58,57,57.3,57.0,0.58,58,57,172,Pass,Average
+939,male,group D,partial college,standard,completed,85,81,85,83.7,85.0,2.31,85,81,251,Pass,Excellent
+940,male,group D,partial high school,standard,completed,77,68,69,71.3,69.0,4.93,77,68,214,Pass,Good
+941,male,group C,master's degree,reduced,completed,72,66,72,70.0,72.0,3.46,72,66,210,Pass,Good
+942,female,group D,master's degree,standard,Incomplete,78,91,96,88.3,91.0,9.29,96,78,265,Pass,Excellent
+943,male,group C,high school,standard,Incomplete,81,66,64,70.3,66.0,9.29,81,64,211,Pass,Good
+944,male,group A,partial high school,reduced,completed,61,62,61,61.3,61.0,0.58,62,61,184,Pass,Average
+945,female,group B,high school,standard,Incomplete,58,68,61,62.3,61.0,5.13,68,58,187,Pass,Average
+946,female,group C,associate's degree,standard,Incomplete,54,61,58,57.7,58.0,3.51,61,54,173,Pass,Average
+947,male,group B,high school,standard,Incomplete,82,82,80,81.3,82.0,1.15,82,80,244,Pass,Good
+948,female,group D,partial college,reduced,Incomplete,49,58,60,55.7,58.0,5.86,60,49,167,Pass,Average
+949,male,group B,partial high school,reduced,completed,49,50,52,50.3,50.0,1.53,52,49,151,Pass,Average
+950,female,group E,high school,reduced,completed,57,75,73,68.3,73.0,9.87,75,57,205,Pass,Good
+951,male,group E,high school,standard,Incomplete,94,73,71,79.3,73.0,12.74,94,71,238,Pass,Good
+952,female,group D,partial college,standard,completed,75,77,83,78.3,77.0,4.16,83,75,235,Pass,Good
+953,female,group E,partial high school,reduced,Incomplete,74,74,72,73.3,74.0,1.15,74,72,220,Pass,Good
+954,male,group C,high school,standard,completed,58,52,54,54.7,54.0,3.06,58,52,164,Pass,Average
+955,female,group C,partial college,standard,Incomplete,62,69,69,66.7,69.0,4.04,69,62,200,Pass,Good
+956,male,group E,associate's degree,standard,Incomplete,72,57,62,63.7,62.0,7.64,72,57,191,Pass,Average
+957,male,group C,partial college,standard,Incomplete,84,87,81,84.0,84.0,3.00,87,81,252,Pass,Excellent
+958,female,group D,master's degree,standard,Incomplete,92,100,100,97.3,100.0,4.62,100,92,292,Pass,Excellent
+959,female,group D,high school,standard,Incomplete,45,63,59,55.7,59.0,9.45,63,45,167,Pass,Average
+960,male,group C,high school,standard,Incomplete,75,81,71,75.7,75.0,5.03,81,71,227,Pass,Good
+961,female,group A,partial college,standard,Incomplete,56,58,64,59.3,58.0,4.16,64,56,178,Pass,Average
+962,female,group D,partial high school,reduced,Incomplete,48,54,53,51.7,53.0,3.21,54,48,155,Pass,Average
+963,female,group E,associate's degree,standard,Incomplete,100,100,100,100.0,100.0,0.00,100,100,300,Pass,Excellent
+964,female,group C,partial high school,reduced,completed,65,76,75,72.0,75.0,6.08,76,65,216,Pass,Good
+965,male,group D,partial college,standard,Incomplete,72,57,58,62.3,58.0,8.39,72,57,187,Pass,Average
+966,female,group D,partial college,standard,Incomplete,62,70,72,68.0,70.0,5.29,72,62,204,Pass,Good
+967,male,group A,partial high school,standard,completed,66,68,64,66.0,66.0,2.00,68,64,198,Pass,Average
+968,male,group C,partial college,standard,Incomplete,63,63,60,62.0,63.0,1.73,63,60,186,Pass,Average
+969,female,group E,associate's degree,standard,Incomplete,68,76,67,70.3,68.0,4.93,76,67,211,Pass,Good
+970,female,group B,bachelor's degree,standard,Incomplete,75,84,80,79.7,80.0,4.51,84,75,239,Pass,Good
+971,female,group D,bachelor's degree,standard,Incomplete,89,100,100,96.3,100.0,6.35,100,89,289,Pass,Excellent
+972,male,group C,partial high school,standard,completed,78,72,69,73.0,72.0,4.58,78,69,219,Pass,Good
+973,female,group A,high school,reduced,completed,53,50,60,54.3,53.0,5.13,60,50,163,Pass,Average
+974,female,group D,partial college,reduced,Incomplete,49,65,61,58.3,61.0,8.33,65,49,175,Pass,Average
+975,female,group A,partial college,standard,Incomplete,54,63,67,61.3,63.0,6.66,67,54,184,Pass,Average
+976,female,group C,partial college,standard,completed,64,82,77,74.3,77.0,9.29,82,64,223,Pass,Good
+977,male,group B,partial college,reduced,completed,60,62,60,60.7,60.0,1.15,62,60,182,Pass,Average
+978,male,group C,associate's degree,standard,Incomplete,62,65,58,61.7,62.0,3.51,65,58,185,Pass,Average
+979,male,group D,high school,standard,completed,55,41,48,48.0,48.0,7.00,55,41,144,Pass,Average
+980,female,group C,associate's degree,standard,Incomplete,91,95,94,93.3,94.0,2.08,95,91,280,Pass,Excellent
+981,female,group B,high school,reduced,Incomplete,8,24,23,18.3,23.0,8.96,24,8,55,Fail,Poor
+982,male,group D,partial high school,standard,Incomplete,81,78,78,79.0,78.0,1.73,81,78,237,Pass,Good
+983,male,group B,partial high school,standard,completed,79,85,86,83.3,85.0,3.79,86,79,250,Pass,Excellent
+984,female,group A,partial college,standard,completed,78,87,91,85.3,87.0,6.66,91,78,256,Pass,Excellent
+985,female,group C,partial high school,standard,Incomplete,74,75,82,77.0,75.0,4.36,82,74,231,Pass,Good
+986,male,group A,high school,standard,Incomplete,57,51,54,54.0,54.0,3.00,57,51,162,Pass,Average
+987,female,group C,associate's degree,standard,Incomplete,40,59,51,50.0,51.0,9.54,59,40,150,Pass,Average
+988,male,group E,partial high school,standard,completed,81,75,76,77.3,76.0,3.21,81,75,232,Pass,Good
+989,female,group A,partial high school,reduced,Incomplete,44,45,45,44.7,45.0,0.58,45,44,134,Pass,Average
+990,female,group D,partial college,reduced,completed,67,86,83,78.7,83.0,10.21,86,67,236,Pass,Good
+991,male,group E,high school,reduced,completed,86,81,75,80.7,81.0,5.51,86,75,242,Pass,Good
+992,female,group B,partial high school,standard,completed,65,82,78,75.0,78.0,8.89,82,65,225,Pass,Good
+993,female,group D,associate's degree,reduced,Incomplete,55,76,76,69.0,76.0,12.12,76,55,207,Pass,Good
+994,female,group D,bachelor's degree,reduced,Incomplete,62,72,74,69.3,72.0,6.43,74,62,208,Pass,Good
+995,male,group A,high school,standard,Incomplete,63,63,62,62.7,63.0,0.58,63,62,188,Pass,Average
+996,female,group E,master's degree,standard,completed,88,99,95,94.0,95.0,5.57,99,88,282,Pass,Excellent
+997,male,group C,high school,reduced,Incomplete,62,55,55,57.3,55.0,4.04,62,55,172,Pass,Average
+998,female,group C,high school,reduced,completed,59,71,65,65.0,65.0,6.00,71,59,195,Pass,Average
+999,female,group D,partial college,standard,completed,68,78,77,74.3,77.0,5.51,78,68,223,Pass,Good
+1000,female,group D,partial college,reduced,Incomplete,77,86,86,83.0,86.0,5.20,86,77,249,Pass,Good
